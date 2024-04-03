@@ -1,0 +1,1817 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01DA4ED5.E9AF95D0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01DA4ED5.E9AF95D0
+Content-Location: file:///C:/F6D428EE/file9246.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"file9246_files/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"file9246_files/sheet001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D1;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "开放问题_训练问题收集表格1122-优化版EN";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt 宋体;padding-le=
+ft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>开放问题_训练问题收集表格1122-优化版EN</x:Name>
+    <x:WorksheetSource HRef=3D"file9246_files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"file9246_files/stylesheet.css"/>
+  <x:WindowHeight>11775</x:WindowHeight>
+  <x:WindowWidth>28560</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"file9246_files/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"file9246_files/tabstrip.htm" name=3D"frTabs" marginwidth=3D0=
+ marginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01DA4ED5.E9AF95D0
+Content-Location: file:///C:/F6D428EE/file9246_files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="gb2312"
+
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	white-space:normal;}
+
+------=_NextPart_01DA4ED5.E9AF95D0
+Content-Location: file:///C:/F6D428EE/file9246_files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file9246.htm">
+<![if IE]>
+<base href=3D"file:///C:/F6D428EE/file9246_files/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">开放问题_训练=
+问题收集表格1122-优化版EN</font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01DA4ED5.E9AF95D0
+Content-Location: file:///C:/F6D428EE/file9246_files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../file9246.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/F6D428EE/file9246_files/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../file9246.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D6120 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:4590pt'>
+ <col width=3D72 span=3D85 style=3D'width:54pt'>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 width=3D72 style=3D'height:14.25pt;width:54pt'>question</=
+td>
+  <td width=3D72 style=3D'width:54pt'>answer</td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>In 2023, C<span style=3D'displa=
+y:none'>hatGPT
+  has been released and widely used, accelerating the deployment of large
+  models in various industries. In the communications industry, the intelli=
+gent
+  customer service is a field where large models can be most quickly used to
+  accelerate intelligence capabilities. What AI capabilities does AICC
+  (Huawei's intelligent cloud customer service solution) provide? What are =
+the
+  application scenarios?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei AICC integrates P=
+angu
+  models to complete intelligent training more quickly and cost-effectively=
+. It
+  supports end-to-end full-process intelligence, reducing the cost per call=
+ by
+  30%.<br>
+    Huawei AICC supports the following AI scenarios:<br>
+    1.AI response robot that processes customer services in self-service
+  mode.<br>
+    2.Intelligent agent assistant that supports agent script generation and
+  knowledge recommendation.<br>
+    3.Intelligent case filling and inspection, reducing the workload of age=
+nts
+  and inspectors.<br>
+    4.AI-enabled training and simulated call training, scoring, and exams f=
+or
+  new agents.<br>
+    In addition to Huawei Pangu models, Huawei AICC also supports
+  interconnection with mainstream third-party large models.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What capa<span style=3D'display=
+:none'>bilities
+  can Huawei AICC provide in toB applications, and what business value can
+  Huawei AICC bring to telecom carriers and their enterprise customers?<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei AICC supports omn=
+i-channel
+  and unique native video access capabilities, enabling the transition from
+  offline to online enterprise services, reducing users' offline waiting ti=
+me,
+  and improving customer satisfaction. Huawei AICC provides the large-capac=
+ity
+  automatic outbound call function, enabling enterprises to implement power=
+ful
+  outbound call marketing. In addition, carriers usually bind call center
+  capabilities with their number and line resources for sales to gain high =
+B2B
+  revenues.<br>
+    [AICC case of China Telecom Guangdong] China Telecom Guangdong provides
+  call center outsourcing services for industries such as finance, governme=
+nt,
+  retail, and manufacturing. The revenue has maintained a compound annual
+  growth rate (CAGR) of about 12% in the past four years, and reached CNY1.6
+  billion (approximately US$13.67 million) in 2022.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What min<span style=3D'display:n=
+one'>ority
+  languages does Huawei AICC support?</span></td>
+  <td colspan=3D37 style=3D'mso-ignore:colspan'>Huawei is a partner of many
+  professional speech recognition and processing companies, such as iFLYTEK.
+  Through in-depth cooperation with them, Huawei AICC currently supports the
+  basic capabilities of most languages such as Arabic, Spanish, Thai, Frenc=
+h, Portuguese,
+  and German. To adapt to local accents and language habits of specific
+  countries, AICC requires about 100 hours of corpus training.</td>
+  <td colspan=3D47 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What inno<span style=3D'display=
+:none'>vative
+  services of Huawei Mobile Money solution, for example, cross-border
+  remittance, payment, and microfinance, can bring more revenue to carriers=
+?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Currently, Huawei Mobile=
+ Money
+  provides three monetization methods:<br>
+    1.Business monetization: Charging handling fees for ToC services and us=
+ers'
+  transfer and remittance is the elementary method for Mobile Money's carri=
+er
+  customers to monetize services.<br>
+    2.Service monetization: Value-added services, such as ad slots, user
+  diversion, and user behavior analysis, are provided for ToB merchants to =
+help
+  them improve operation efficiency. This is an intermediate method for Mob=
+ile
+  Money's carrier customers.<br>
+    3.User monetization: In high-value finance scenarios, banks and micro
+  finances provide credit investigation and small loans, promoting the
+  monetization of high-value users. This is an advanced method for Mobile
+  Money's carrier customers.<br>
+    [Safaricom, South Africa] Mobile Money contributes an annual revenue of
+  US$1 billion to Safaricom. The revenue from business monetization accounts
+  for 75%, with an annual growth rate of 10%. The revenue from service
+  monetization accounts for 15%, with an annual growth rate of 20%. The rev=
+enue
+  from user monetization accounts for 10%, with an annual growth rate of 30=
+%.
+  The small loan service has become one of the strategic directions of
+  Safaricom's Mobile Money service.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Platform c<span style=3D'displa=
+y:none'>apabilities
+  are the cornerstone of the construction and rapid development of mobile
+  finance ecosystems. What platform capabilities can Huawei Mobile Money
+  provide for carriers? How can these capabilities support business
+  development?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei Mobile Money has =
+a service
+  platform (wallet+payment+finance) and an operation support platform.<br>
+    1.One-stop service platform (integrating the wallet, payment, and
+  finance).<br>
+    a.Wallet platform: The financial-grade account foundation supports a la=
+rge
+  capacity of 10,000 TPS, 99.999% reliability, and 300+ OOTB GSMA standard
+  features in emerging markets, helping carriers build a national financial
+  foundation.<br>
+    b.Payment platform: The super app and digital marketing &amp; AppCube l=
+ow-code/no-code
+  platform are provided to help carriers complete merchant interconnection
+  within 7 days and end-to-end merchant registration within 45 days, quickly
+  building local ecosystems.<br>
+    c.Financial platform: AI-based intelligent risk control, 10+ financial
+  scenarios, and 100% configurable parameters help carriers convert 60% of
+  Mobile Money users into financial users, identify 90%+ of high-value user=
+s,
+  and limit the percentage of non-performing loan (NPL) to less than 2%.<br>
+    2.Operation support platform: The visualized operations platform+servic=
+es,
+  spanning insight, product strategy, marketing planning, and marketing rev=
+iew,
+  improve the revenue, number of monthly active users, and agent activeness,
+  and help carriers improve operation efficiency by 20%.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>How does<span style=3D'display:no=
+ne'>
+  Huawei's Mobile Money solution help customers quickly build local
+  ecosystems?<span style=3D'mso-spacerun:yes'>&nbsp;</span></span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei can help carriers=
+ quickly
+  build local ecosystems by providing the platform, partners, and
+  operations.<br>
+    1.Platforms: Huawei's platform provides 700+ open interfaces and can
+  connect to one merchant in seven days.<br>
+    2.Partners: Huawei has 200+ ecosystem partners and can work with carrie=
+rs
+  to build local payment scenarios, for example, cross-border e-commerce and
+  gaming.<br>
+    3.Operation support: Huawei provides 200+ user labels and 10+ operation
+  templates to help local merchants quickly and efficiently acquire custome=
+rs,
+  improving operation efficiency by 20%+ and enabling carriers to quickly
+  engage local merchants.<br>
+    [KBZPay case] In 2018, KBZ developed mobile finance from scratch and
+  formulated its ecosystem development strategies. Based on Huawei's one-st=
+op
+  ecosystem platform, KBZ enabled merchants to register within one week and
+  release marketing activities within one week, building a rich ecosystem
+  covering 10+ industries such as e-commerce, retail, catering, education, =
+and
+  entertainment, and growing into the No.1 player in the local market withi=
+n 18
+  months. So far, KBZPay has developed 12 million users and 300,000 merchan=
+ts
+  and has become a comprehensive life service platform for local people. The
+  average monthly transaction frequency of a single user is more than 15 ti=
+mes,
+  the average monthly transaction amount reaches US$3.5 billion, and the GD=
+P is
+  25%.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>How does <span style=3D'display=
+:none'>Huawei's
+  Mobile Money solution ensure fund security and revenue risks in terms of =
+risk
+  control, NPL, and credit scoring?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>In traditional emerging =
+markets,
+  carriers' data (billing, network, and Mobile Money) covers a wider range =
+of
+  users and is of greater scale than traditional banking data. Based on the
+  summary of Huawei's successful experience in four sites including Ethio
+  Telecom, KBZ Myanmar, TNM Malawi, and MTN Zambia, Huawei's financial plat=
+form
+  integrates carrier data (BSS domain+OSS domain+Mobile Money) and provide =
+the
+  following two core capabilities to help carriers increase financial reven=
+ue
+  and reduce risks:<br>
+    1.Huawei's AI-based credit investigation: PB-level big data–based
+  5-dimensional credit investigation helps carriers increase the proportion=
+ of
+  credit users from 25% to 60%, increase the loan scale by 200%+, and incre=
+ase
+  the gross profit by 100%+.<br>
+    2.Huawei's AI-based pricing: AI-based customized dynamic pricing increa=
+ses
+  the credit line of high-quality customers by 20% and the number of re-loan
+  times by 20%+.<br>
+    [Case of Ethio Telecom] Within seven months, Ethio Telecom granted cred=
+it to
+  1 million credit investigation users so that they can apply for small loa=
+ns.
+  This user number far exceeds the number (400,000) of users developed by
+  traditional banks in 20 years. In addition, the bad debt rate of credit
+  services was controlled within 2%.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What capa<span style=3D'display:=
+none'>bilities
+  does Huawei's Mobile Money solution provide in terms of cloud-based
+  deployment? For example, does it use the cloud-native architecture? Can t=
+he
+  solution be deployed on the public cloud? Is the cloud resource visualiza=
+tion
+  capability provided for carriers to view and predict cloud resource
+  consumption?<span style=3D'mso-spacerun:yes'>&nbsp;</span></span></td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>Huawei's Mobile Money solution us=
+es the
+  cloud native architecture and supports Huawei public cloud and AWS. Huawei
+  provides O&amp;M tools to visualize and control all resources and support
+  minute-level scaling, quickly and agilely adapting to various system capa=
+city
+  expansion requirements of customers.</td>
+  <td colspan=3D56 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>The mobil<span style=3D'display=
+:none'>e
+  finance market is highly competitive. What are the differentiated advanta=
+ges
+  of Huawei's Mobile Money solution when compared with Ericsson and Alibaba=
+?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>1.Compared with Ericsson=
+:<br>
+    a.Huawei's solution has an end-to-end product portfolio of
+  wallet+micro-finance+payment. Ericsson's product solution is incomplete a=
+nd
+  does not contain any app (Comviva) or financial solution.<br>
+    b.Huawei's solution supports tens of thousands of TPS. Ericsson has no
+  reference for large sites, and the TPS of its largest site (MTN, Ghana) is
+  less than 1000.<br>
+    2.Compared with Alibaba:<br>
+    a.Huawei has verified successful experience in 30+ emerging markets. Al=
+ibaba
+  has only one site (VodaPay) outside China (as a technical vendor), which =
+does
+  not have the productization capability and is to be verified by the
+  market.<br>
+    b.Huawei has complete localized delivery, operation, and O&amp;M proces=
+ses,
+  short delivery period, and low delivery cost. Alibaba does not have
+  subsidiaries or local services outside China, and the delivery period is
+  long. Go-live time: 4 months for Ethio Telecom VS 15 months for VodaPay.<=
+/td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What is th<span style=3D'display=
+:none'>e
+  differentiated competitiveness of Huawei's convergent billing solution, w=
+hich
+  is based on the cloud native design, in cloud capabilities such as N-Live,
+  gray release, and elastic capacity expansion?</span></td>
+  <td colspan=3D70 style=3D'mso-ignore:colspan'>Huawei's convergent billing
+  solution is ahead of competitors in terms of cloud native capabilities. I=
+t is
+  the first solution in the industry to containerize all applications and
+  databases. Based on the full-container architecture, Huawei has developed=
+ the
+  N-Live solution and applied for a patent (available only from Huawei). The
+  solution can improve reliability by an order of magnitude (from 99.999% to
+  99.9999%) and implement automatic identification, decision-making, and
+  switchover after a fault occurs. The site switchover time is less than 3
+  seconds. Based on the industry-leading cloud native architecture, Huawei =
+has
+  also developed a cost-effective cloud-based DR solution, which can comple=
+te
+  site switchover within 10 minutes and reduce DR hardware investment by 40=
+%.</td>
+  <td colspan=3D14 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Can Huaw<span style=3D'display:n=
+one'>ei's
+  convergent billing solution be deployed on the public cloud? Can the solu=
+tion
+  be deployed and integrated on a third-party cloud?<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></span></td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'>Huawei's convergent billing
+  solution decouples applications from infrastructure and supports deployme=
+nt
+  on multiple clouds, including private cloud and public cloud. The solution
+  has been integrated with third-party CaaS systems, including Huawei CCE, =
+VMware
+  TANZU, and Google GKE.</td>
+  <td colspan=3D57 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What are t<span style=3D'display=
+:none'>he
+  competitive advantages of Huawei's convergent billing solution in terms of
+  convergence capabilities?</span></td>
+  <td colspan=3D56 style=3D'mso-ignore:colspan'>Huawei's convergent billing
+  solution implements full convergence in terms of services, networks, and
+  architecture. One platform can support all services of customers. The
+  solution has 70+ prepaid and postpaid convergence references, and has
+  converged multiple services such as mobile, fixed network, and TV services
+  for multiple carriers such as TE Egypt, Ethio Telecom, TA Argentina, and
+  Celcom Malaysia. The solution helps customers reduce the churn rate by 50%
+  and OPEX by 30% (TA, Argentina). It also helps customers quickly deploy n=
+ew
+  ToB services and telco &amp; non-telco convergent services (SFC, Kenya).<=
+/td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>We have p<span style=3D'display:=
+none'>urchased
+  many Huawei's platforms and tools and Huawei's B.E.S.T. Network professio=
+nal
+  services every year. How can we integrate the tools and platforms for
+  application to achieve greater value?</span></td>
+  <td colspan=3D43 style=3D'mso-ignore:colspan'>Huawei has built a 1+1+N sy=
+stematic
+  B.E.S.T. Network service architecture. Through process collaboration in
+  experience, maintenance, and optimization, Huawei streamlines the existing
+  tools and platforms and integrates them into a unified digital platform
+  foundation. Based on the requirements of different services and scenarios=
+ on
+  the live network, the platform capabilities and professional services are
+  provided to deliver ultimate user experience in various scenarios.</td>
+  <td colspan=3D41 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Can Huaw<span style=3D'display:=
+none'>ei's
+  B.E.S.T. Network service promise end user experience improvement and
+  corresponding business benefits?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Different services have =
+different
+  experience requirements. For example, gaming services are sensitive to
+  latency, short video services have high requirements on downlink rates, a=
+nd
+  live broadcast services require uplink quality assurance. Huawei can work
+  with carriers to determine specific service experience requirements and
+  measurement indicators, perform targeted modeling and fitting based on the
+  integrated experience and optimization solution, and promise end user
+  experience improvement and closed-loop management.<br>
+    Many factors affect business benefits, and business improvement is a
+  systematic project. Excellent networks and user experience are necessary
+  conditions for business success and can help improve business indicators.
+  Huawei can work with carriers to identify weaknesses promptly and discuss
+  solutions and improvement paths.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Can the bl<span style=3D'display=
+:none'>ack
+  technologies and related tools and platforms used in the B.E.S.T. Network
+  service be sold separately?</span></td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'>The B.E.S.T. Network servic=
+e is
+  sold in the form of an overall solution. Huawei believers that black
+  technologies, tools, and platforms are auxiliary technologies and
+  capabilities, which can generate greater value and bring greater benefits=
+ if
+  combined with the professional services provided by Huawei's expert team.=
+</td>
+  <td colspan=3D55 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Can Huaw<span style=3D'display:=
+none'>ei's
+  intelligent O&amp;M solution implement E2E all-domain management? Does the
+  solution support multi-vendor (MV) maintenance? Is multi-domain (such as =
+FBB
+  and MBB) O&amp;M association supported?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Comprehensive MV data co=
+llection
+  capabilities are provided. MV topology restoration is supported in 12
+  mainstream networking scenarios and 35 mainstream sub-scenarios. MV singl=
+e-
+  and cross-domain scenario monitoring and alarm association are supported.=
+ The
+  MV fault diagnosis capability is preliminarily built in single domains su=
+ch
+  as the wireless domain. MV prediction and prevention start to be supporte=
+d in
+  the core network/HBB/optical access domains. The MV capability is
+  preliminarily built in ToH HBB O&amp;M and provisioning and ToB private l=
+ine
+  O&amp;M. (For details, see the following figure.) <br>
+    Currently, NOC-SOC collaboration is implemented through the collaborati=
+on
+  between AUTIN and SmartCare. Both AUTIN and SmartCare support MV devices,=
+ and
+  therefore NOC-SOC collaboration also supports MV devices.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What is th<span style=3D'display=
+:none'>e
+  accuracy of fault root cause recommendation based on AI models?</span></t=
+d>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'>AI models need to be traine=
+d and
+  optimized based on the actual network data of projects. Take China Mobile
+  Zhejiang as an example. Three fault root causes are recommended based on =
+AI
+  models. The accuracy of the top 1 root cause is about 70%, and the accura=
+cy
+  of the top 3 root causes is up to 93.86%.</td>
+  <td colspan=3D56 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What is th<span style=3D'displa=
+y:none'>e
+  NOC-SOC collaboration solution of Huawei's intelligent O&amp;M? What are =
+the
+  benefits of NOC-SOC collaboration? Which carriers have deployed and used =
+the
+  solution?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>NOC-SOC collaboration
+  (collaboration between AUTIN and SmartCare) aims to reduce service loss
+  during network fault handling. After a network fault occurs, AUTIN sends =
+site
+  and alarm information to SmartCare and obtains the number of affected use=
+rs
+  and traffic loss from SmartCare. Then, AUTIN determines the fault that sh=
+ould
+  be preferentially rectified based on the severity of the impact on servic=
+es.
+  In the future, more NOC-SOC collaboration solutions will be available. For
+  example, after a user complain is received, SmartCare uses AUTIN to analy=
+ze
+  the root causes of network faults and rectify the faults promptly to redu=
+ce
+  user complaints. If service monitoring detects that user experience
+  deteriorates, SmartCare uses AUTIN to analyze the root causes of network
+  faults and rectify the faults promptly to reduce user complaints.<br>
+    Currently, the NOC-SOC collaboration mode has been applied in AIS Thail=
+and
+  and HKT, and will be further verified in XL Indonesia and ET Egypt.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>If MV cust<span style=3D'displa=
+y:none'>omer
+  experience platforms exist on the live network, does AUTIN need to
+  interconnect with these platforms? Does Huawei AUTIN provide the
+  interconnection service?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei AUTIN is capable =
+of
+  integrating and interconnecting with third-party SOC platforms. Huawei
+  AUTIN/SmartCare have been deployed at many sites around the world, but th=
+ere
+  are few MV scenarios. In 2023, Huawei starts to build the interconnection
+  capability of Huawei AUTIN and SmartCare. In terms of strategy, MV scenar=
+ios
+  are not considered currently.<br>
+    Key message for the market: Huawei can develop the capabilities require=
+d in
+  MV interconnection scenarios, but the cost is high. The data and interfac=
+es
+  of the NOC-SOC collaboration solution are non-standard, and the algorithms
+  used to converge multi-dimensional network and service experience data are
+  complex and have high technical requirements, resulting in high investmen=
+t in
+  development, design, and optimization.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>What is th<span style=3D'display:=
+none'>e
+  business monetization model for existing sites deployed with AUTIN and
+  SmartCare?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Expansion strategies:<br>
+    1.Mutual marketing: For the 69 subnets with AUTIN but without SmartCare=
+ or
+  the 111 subnets with SmartCare but1without AUTIN, separately sell AUTIN a=
+nd
+  SmartCare through collaboration.<br>
+    2.Collaborative operations: For 83 subnets where AUTIN and SmartCare ha=
+ve
+  been deployed, sell AUTIN andSmartCare as operation offerings (to be
+  released).<br>
+    Expansion strategies:<br>
+    1.Value filling: Build diferentiated competitiveness throuah the
+  combination of NOC and SoC. but do not promise extraKPls/SLAs. lmplement
+  value flling and commercial price premium in renewed contracts (to cope w=
+ith
+  pricereduction)/new contracts (to cope with low-price competition).<br>
+    2.Add-on sales: ln 2023, pilot the design of new offerings for
+  customer-oriented business indicators(commitments are required) in the fo=
+rm
+  of innovation projects based on NOC-SOC collaboration, and quide add-onsa=
+les
+  in the case of independent budgets based on the original scope of managed
+  services.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>How can c<span style=3D'display:=
+none'>onvergent
+  data be used to support precision marketing?</span></td>
+  <td colspan=3D51 style=3D'mso-ignore:colspan'>The SmartDecision solution =
+provides
+  four core capabilities: graph computing engine (Wind Graph) that is twice=
+ the
+  computing power of the industry, 10+ scenario-based service function
+  applications (APIs), service identification accuracy that is greater than
+  90%, and 200+ convergent data models. These capabilities can better match
+  customer profiles and help carriers provide right offers and channels at =
+the
+  right time, improving the marketing conversion rate. The solution has
+  excellent application cases in AIS Thailand, MTN South Africa, and China
+  Mobile.</td>
+  <td colspan=3D33 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What are t<span style=3D'displa=
+y:none'>he
+  data openness and orchestration capabilities of SmartCare?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>The SmartCare solution h=
+as
+  launched the Smart DataCube product, which provides secure and easy-to-use
+  data openness and low-code orchestration capabilities to support carriers'
+  self-service capability improvement and digital team transformation. The =
+Smart
+  DataCube product has the following features:<br>
+    1. Low threshold:<br>
+    (1)With the value data models and low-code orchestration tools as the c=
+ore,
+  everyone can become a data analyst.<br>
+    (2)Flexible and secure data exploration: Independent resource data
+  exploration does not affect services on the live network.<br>
+    2.Openness:<br>
+    (1)Activation of idle data assets: 200+ data asset models are provided,
+  which can be used out of the box to activate data in the OSS domain and
+  assist service personnel in data-driven service decision-making.<br>
+    (2)API platform and multiple data openness channels: Efficiently and
+  flexibly support service data requirements.<br>
+    (3)Hierarchical decoupling model: Improve the model reuse rate and redu=
+ce
+  repeated construction.<br>
+    3.Agility:<br>
+    (1)Shorter data development period: The drag-and-drop low-code developm=
+ent
+  platform shortens the average data development period from 45 days to 7
+  days.<br>
+    (2)Cross-domain data integration and governance provide various OSS-dom=
+ain
+  and OSS+BSS+S business-network association data models to support quick
+  application development.<br>
+    (3)The product enables quick rollout of digital services and greatly
+  improves CXO decision-making quality.<br>
+    4.Digital equipment:<br>
+    (1)Data asset visualization: Data assets are visible, searchable, and
+  available.<br>
+    (2)The product supports smooth evolution of the existing platform,
+  integrates data orchestration development tool chains, and enables data
+  operations.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What are t<span style=3D'display=
+:none'>he
+  success stories of SmartCare in data monetization?</span></td>
+  <td colspan=3D38 style=3D'mso-ignore:colspan'>In a project of XL Indonesi=
+a, we
+  assisted the customer in revenue grid analysis, helped the customer short=
+en
+  the data processing duration from weeks to days, and effectively improved=
+ the
+  ARPU by 15%+. In a project of AIS Thailand, our digital engine helped the
+  customer achieve the transformation from dependency on expert experience =
+to
+  dependency to decision intelligence (DI) and improved the ARPU by 10%+.</=
+td>
+  <td colspan=3D46 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>What solu<span style=3D'display:n=
+one'>tions
+  are available for experience management/NPS/satisfaction management? Can
+  Huawei make value commitments to customers?</span></td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'>The CEI+ indicators propose=
+d by
+  Huawei can help carriers better manage experience. The N-NPS detractor
+  identification solution proposed by Huawei based on CEI+ indicators can be
+  combined with the network satisfaction (N-NPS) and comprehensive experien=
+ce index
+  (CEI+). Better user experience management and improvement are provided ba=
+sed
+  on the poor-QoE identification, demarcation, and locating capabilities
+  provided by experience management and the processes of perception, cognit=
+ion,
+  decision-making, execution, and effect evaluation. The quasi-real-time
+  visualization and management capabilities of Huawei SmartCare help carrie=
+rs
+  transform from reactive experience management to proactive experience
+  management. This year, Huawei released the Value of Framework (VOF), which
+  provides commitment capabilities for 10 value streams in domains including
+  networks, users, and businesses.</td>
+  <td></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Is a lightw<span style=3D'displa=
+y:none'>eight
+  SmartCare solution available for small countries and small-scale networks?
+  What is the minimum number of servers required?</span></td>
+  <td>The single<span style=3D'display:none'>-cabinet solution can be provi=
+ded
+  for scenarios with specific specifications (traffic &lt; 100 Gbit/s</span=
+></td>
+  <td colspan=3D21 style=3D'mso-ignore:colspan'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>number of users &lt; 1 million). =
+The
+  number of servers is less than 12. Two probes can be deployed in different
+  equipment rooms. The overall investment is less than US$1 million. The
+  following figure shows the solution details.</td>
+  <td colspan=3D62 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>The propo<span style=3D'display=
+:none'>rtion
+  of user experience and business indicators in the managed service bidding
+  document keeps increasing. Can Huawei make end-to-end commitments on these
+  indicators (traditional network availability, performance indicators,
+  experience indicators, and business indicators)? [Answer this question fr=
+om
+  the perspective of product portfolios, reflecting the solution transforma=
+tion
+  from cost-driven to value-driven.]</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>The SmartCare solution c=
+an make
+  commitments on experience indicators based on the VOF. The VOF value
+  commitment involves E2E solutions, including SmartCare, B.E.S.T. Network,=
+ and
+  intelligent O&amp;M. Among the 10 VOF value scenarios released this year,=
+ we
+  can assist customers in making indicator commitments in VoLTE experience
+  assurance, VoNR experience assurance, high-value OTT (such as Facebook
+  experience), and Tutela (P3 test). Of course, the due diligence (DD) must=
+ be
+  strictly evaluated before commitment making.<br>
+    Other key messages (for internal reference and not included in
+  Q&amp;A)<br>
+    1. What are the characteristics of Huawei's N-NPS detractor identificat=
+ion?
+  Huawei's N-NPS detractor identification solution is a user-level experien=
+ce
+  modeling solution based on long and short periods. The short-period solut=
+ion
+  uses the daily network experience index established by CEI+ to score the
+  daily network experience of each user (comprehensive experience index). N=
+-NPS
+  detractor identification is a long-period user network satisfaction model
+  established based on short periods to identify the possibility (probabili=
+ty)
+  of user network satisfaction depreciation. Customers can better manage and
+  improve user experience based on the probability of long-period network
+  satisfaction depreciation, short-period comprehensive experience index, a=
+nd
+  poor-QoE identification, demarcation, and locating capabilities provided =
+by
+  CEI+ scenario-based experience management, as well as the perception,
+  cognition, decision-making, execution, and effect evaluation processes. 2.
+  What is the relationship between N-NPS and CEI+? Huawei's N-NPS detractor
+  identification solution uses the experience feature indicator data of CEI=
++ as
+  the basic input. Therefore, to support N-NPS detractor identification, the
+  CEI+ UC must be deployed in advance so that necessary experience feature
+  indicator data is available and can serve as the input of training data f=
+or
+  the network satisfaction model. 3. What is the business model for CEI+ to
+  provide N-NPS? What is the charge mode? For Huawei's N-NPS detractor
+  identification solution, the software+operation service business model is
+  recommended. The software provides basic functions, and the operation ser=
+vice
+  optimizes the model to meet model accuracy requirements. It is recommended
+  that software licenses be controlled by the number of users. 4. Can the N=
+-NPS
+  detractor identification solution fit users' N-NPS survey data and promise
+  the improvement of group N-NPS indicators? The N-NPS detractor identifica=
+tion
+  solution constructs binary labels (detraction: 0–6 points/non-detraction:
+  7–10 points) based on the N-NPS survey data (0–10 points) and then perf=
+orms
+  user-level network satisfaction modeling. A binary classification algorit=
+hm
+  model is used, which does not fit N-NPS scores. In addition, because N-NPS
+  survey data is subjective and random, data cleaning is necessary (usually
+  mandatory) for N-NPS survey samples. That is, samples that may be randomly
+  scored are deleted, and only high-quality survey samples are retained and
+  used as labeled samples for training and evaluating the network satisfact=
+ion
+  model. The N-NPS detractor identification solution helps identify users w=
+ith
+  a high probability of detraction. Based on the short-period CEI experience
+  index, this solution provides guidance for customers to accurately optimi=
+ze
+  network experience and reduce the number of detractors on the network.
+  However, the N-NPS indicator improvement cannot be promised because the
+  subjectivity and randomness of N-NPS indicators cannot be eliminated and =
+the
+  indicators are affected by tariffs and services.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>To meet t<span style=3D'display=
+:none'>he
+  requirements of AI and computing power networks, large-scale DC construct=
+ion
+  is required. The power consumption of ICT equipment rooms on the live net=
+work
+  is high. What innovative energy saving solutions does Huawei provide to h=
+elp
+  customers save electricity fees?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei's innovative ener=
+gy saving
+  solutions promoted in 2023 include the power module (FusionPower), EHU, a=
+nd
+  extended-range cooling solution.<br>
+    The FusionPower solution has gone live in and outside China. It can del=
+iver
+  the highest full-link energy efficiency of 97.8% (VS industry level of 94=
+.5%)
+  and save the space required by 40%+. The EHU solution focuses on free coo=
+ling
+  and energy saving, achieving a PUE of less than 1.2 (reduced by 14%) and
+  improving the WUE by 33%. The extended-range cooling solution is mainly
+  promoted in China and piloted in projects outside China (such as Asia
+  Pacific). The solution optimizes the control logic based on the cool water
+  system to reduce electricity fees through staggering electricity usage in=
+ the
+  multistep electricity price (MEP) market, reduce the low-efficiency opera=
+tion
+  time of chillers, and improve the system energy efficiency. In some marke=
+ts,
+  PV chillers can be used to replace traditional chillers to further enhance
+  power saving.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Can Huaw<span style=3D'display:=
+none'>ei's
+  EHU and FusionPower solutions adapt to DC reconstruction scenarios?</span=
+></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>The EHU and FusionPower =
+solutions
+  involve large-size equipment and have specific requirements on the DC sit=
+e.
+  In a DC reconstruction project, whether the basic conditions are met must=
+ be
+  confirmed in advance.<br>
+    When the EHU solution is used for DC reconstruction, the following fact=
+ors
+  need to be considered: installation mode, floor height, surrounding
+  maintenance space, structure load-bearing capacity, softened water, and
+  outlet air pipe installation route. When the FusionPower solution is used=
+ for
+  DC reconstruction, the space size and basic load-bearing capacity need to=
+ be
+  considered. For details, see the installation guide of the corresponding
+  product.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What are t<span style=3D'displa=
+y:none'>he
+  differences between the construction requirements of colo DCs and those of
+  ICT self-use DCs?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>The construction require=
+ments of
+  colo DCs and those of ICT self-use DCs originate from service requirement=
+s,
+  and therefore they differ greatly in key indicators that customers are
+  concerned about, such as the TTM, PUE, and TCO.<br>
+    Colo services are evaluated by the cabinet quantity/U height in limited
+  space, single-cabinet deployment capacity, and monthly revenue. Therefore,
+  the rack usage efficiency, power density, availability, TTM, and PUE are =
+the
+  main concerns. ICT self-use DCs are used to support new service rollout or
+  network evolution. Simplified O&amp;M, PUE, and power mode support (AC/DC
+  convergence) are the main concerns. In certain scenarios, the power densi=
+ty
+  and TTM are also concerned, and need to be further analyzed.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>How does <span style=3D'display=
+:none'>Huawei
+  evaluate and guarantee the ROI of site reconstruction for carriers,
+  especially the ROI of the PV deployment solution?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>The ROI of the PV deploy=
+ment
+  solution is evaluated and calculated based on the investment, O&amp;M cos=
+ts,
+  energy revenue, and subsidy policies of the PV system. PV benefit calcula=
+tion
+  is a complex task, and needs to be performed in consideration of the PV p=
+ower
+  system conditions, including the illumination intensity, weather conditio=
+ns,
+  system design, and O&amp;M. The following factors also need to be conside=
+red:
+  electricity price change, policies, and service life and depreciation of =
+the
+  PV system.<br>
+    For the ROI assurance of the PV deployment solution, the stability and
+  long-term benefits of the ROI of the PV system are two key factors. From =
+the
+  perspective of efficient and reliable operation of the PV system througho=
+ut
+  the 25-year lifecycle, proper system design, high-reliability and
+  high-quality PV modules, high-reliability power supply system, and scient=
+ific
+  O&amp;M methods are used to ensure the achievement of the ROI target of t=
+he
+  PV deployment solution.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Currently, <span style=3D'displ=
+ay:none'>carriers'
+  sites are facing great cost pressure. What competitive solutions can Huaw=
+ei
+  offer in terms of energy saving, PV deployment, and tower resource
+  optimization?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Huawei establishes energ=
+y saving
+  standards for the carrier market and industry market, develops comprehens=
+ive
+  green target network solutions, and builds green, low-carbon, efficient, =
+and
+  secure target networks. Huawei launches scenario-based solutions such as
+  green sites, green equipment rooms/data centers, and green O&amp;M, inclu=
+ding
+  network-level energy saving operation and evaluation, site PV
+  deployment/equipment room PV deployment/PV plants, hybrid power supply, a=
+nd
+  equipment room infrastructure reconstruction solutions. Based on in-depth
+  understanding of networks and energy, Huawei develops energy-saving
+  reconstruction solutions that integrate products, platforms, and service
+  systems. During the reconstruction, hierarchical network-wide evaluation =
+and
+  reconstruction are performed to ensure network robustness.<br>
+    To address the challenges of high tower delivery costs and slow site
+  deployment, Huawei launches innovative solutions such as ZipSite, TubeSit=
+e,
+  and SlimSite through integration design, on-tower installation, front-end=
+ and
+  back-end collaboration, and global resource optimization, helping carriers
+  quickly deploy sites at reasonable costs.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>What solut<span style=3D'display=
+:none'>ions
+  can Huawei provide for the digitalization of dumb site resources?</span><=
+/td>
+  <td colspan=3D69 style=3D'mso-ignore:colspan'>Currently, a large number of
+  equipment rooms have issues such as disordered device layout, uncleared
+  retired devices, and lack of intelligent monitoring methods for energy
+  infrastructure. As a result, customers face pain points such as low equip=
+ment
+  room usage efficiency, high security operation risks, and high OPEX. To
+  address these issues, Huawei launches solutions such as digitalization of
+  dumb optical cable resources and intelligent sites. Dumb resources, such =
+as
+  optical cables, pipelines, power supply systems, cooling systems, diesel
+  generators, and storage batteries, are scientifically managed and digital=
+ly
+  packaged to improve the overall resource utilization, implementing visual=
+ized
+  and manageable dumb resources and intelligent site operations.</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Site anti-t<span style=3D'displ=
+ay:none'>heft
+  is of great importance in Africa. What solutions can Huawei provide to
+  support site anti-theft?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>To cope with the theft o=
+f site
+  auxiliary facilities in Africa, Huawei customizes the following
+  solutions:<br>
+    High-security cabinets: Such cabinets use anti-theft composite materials
+  and are fully sealed. The cabinets integrate air conditioners and electro=
+nic
+  locks to adapt to high- and low-temperature environments, and have excell=
+ent
+  waterproof, dustproof, anti-impact, picklock-proof, and anti-cut
+  performance.<br>
+    New material: New silicon carbide epoxy materials are being researched
+  based on the epoxy resin material to enhance physical wear resistance and
+  heat conductivity and reduce battery theft.<br>
+    Proper planning and design: In the site planning phase, security factors
+  are included in the 6D comprehensive score calculation as a dimension.
+  Facility locations and passages are properly set to reduce the risk of th=
+eft.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Some carri<span style=3D'displa=
+y:none'>ers
+  have requirements on the specifications of the PV module support. How does
+  Huawei reduce costs while meeting specification requirements?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>1.Huawei standard suppor=
+ts adapt
+  to mainstream international design standards, such as American, European,=
+ and
+  Chinese standards. Chinese steel is preferentially used. DDP one-stop
+  logistics enables cost-efficient and fast batch delivery.<br>
+    2.Both standard and upgraded PV module supports are developed to meet t=
+he
+  pressure resistance requirements of structures under high, medium, and low
+  wind speeds. Solar energy can be deployed in various typical scenarios, s=
+uch
+  as rooftops, grounds, and containers.<br>
+    3.Huawei supports mainly use integrated components and assembled
+  lightweight steel structure. The foundation preferentially uses cast-in-p=
+lace
+  concrete-free solutions, such as screw piles and prefabricated clump weig=
+ht.
+  No crane is required for construction, and the service quality can be
+  guaranteed.<br>
+    4.Based on customers' customized scenario requirements, Huawei provides
+  full-process professional services, including end-to-end consulting and
+  requirement planning, design and certification, survey, and delivery.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>Service sec<span style=3D'displ=
+ay:none'>urity
+  is the most critical factor in CO equipment room reconstruction. How does
+  Huawei ensure secure service cutover? How can carriers persuade important
+  enterprise customers, such as banks, to accept device rectification?</spa=
+n></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>1. Precise evaluation: o=
+ptimal
+  solution, lowest CAPEX+OPEX, shortest ROI, and experience of 100 + projec=
+ts
+  around the world.<br>
+    2. Simplified design: 300+ site design models and online design tools,
+  improving the design efficiency by 30%+ and accuracy by 50%+.<br>
+    3. High-quality verification: cloud-based verification+FOA verification,
+  ensuring solution accuracy and batch delivery.<br>
+    4. Efficient implementation: Digital site survey+SOP-based
+  operations+online quality management, ensuring safe, high-quality, and
+  efficient construction.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Currently, <span style=3D'displa=
+y:none'>carriers
+  have high requirements on the site deployment speed. What solutions can
+  Huawei provide to improve the site deployment efficiency?</span></td>
+  <td colspan=3D84 style=3D'mso-ignore:colspan'>The main factors that hinde=
+r the
+  site deployment speed include difficulties in site acquisition and materi=
+al
+  completeness, and long construction periods. Huawei's scenario-based site=
+s of
+  new forms can accelerate site acquisition and deployment. PoleSite is
+  simplified and one pole can be used for multiple purposes. TubeSite is
+  environment-friendly and occupies a small area. FRP towers are 30% lighter
+  than traditional towers, accelerating site acquisition in urban areas. The
+  tower structure is downsized and the tower design is optimized, reducing =
+the
+  foot distance by 40% and reducing site civil engineering and auxiliary
+  facilities. The screw pile foundation is free of excavation and concrete,
+  shortening the construction period. In addition, Huawei has 20 years of
+  extensive site deployment experience and localized professional delivery
+  teams. Huawei's ISDP enables integrated delivery and shortens the end-to-=
+end
+  TTM by 30%.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>In Africa, si<span style=3D'dis=
+play:none'>te
+  auxiliary facilities are prone to theft, affecting the site availability.
+  What solutions can Huawei offer to improve the current situation?</span><=
+/td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>To cope with the theft o=
+f site
+  auxiliary facilities in Africa, Huawei customizes the following
+  solutions:<br>
+    1. High-security cabinets. Such cabinets use anti-theft composite mater=
+ials
+  and are fully sealed. The cabinets integrate air conditioners and electro=
+nic
+  locks to adapt to high- and low-temperature environments, and have excell=
+ent
+  waterproof, dustproof, anti-impact, picklock-proof, and anti-cut
+  performance.<br>
+    2. Integrated design. Anti-impact (hammer), picklock-proof (common
+  crowbar), and anti-cut (angle grinder and hacksaw), with a comprehensive
+  anti-theft time of 40 minutes.<br>
+    3. Hidden electronic anti-theft lock.<br>
+    4. Integrated air conditioner. New silicon carbide epoxy materials are
+  being researched based on the epoxy resin material to enhance physical we=
+ar
+  resistance and heat conductivity and reduce battery theft.<br>
+    5. Proper planning and design: In the site planning phase, security fac=
+tors
+  are included in the 6D comprehensive score calculation as a dimension. Fa=
+cility
+  locations and passages are properly set to reduce the risk of theft.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 style=3D'height:409.5pt'>What solut<span style=3D'displa=
+y:none'>ions
+  can Huawei provide for site infrastructure O&amp;M?</span></td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>Site energy is an import=
+ant
+  infrastructure for carriers and towercos. Against the backdrop of energy
+  saving and emission reduction, customers are facing challenges such as sh=
+arp
+  increase in energy consumption caused by the deployment of new technologi=
+es such
+  as 5G, insufficient capabilities of traditional energy monitoring, and low
+  O&amp;M efficiency. To address these challenges, Huawei provides the digi=
+tal
+  energy O&amp;M solution, which integrates big data and AI technologies to
+  implement efficient O&amp;M and digital operations of site energy. The
+  framework of the digital energy O&amp;M solution consists of the basic
+  O&amp;M service package and value-added operation service package.<br>
+    1. The basic O&amp;M service package provides services including
+  intelligent monitoring of energy devices, AI-assisted inspection, emergen=
+cy
+  repair, and digital refueling.<br>
+    2. The value-added operation service package provides services including
+  visualized site energy consumption management, identification and
+  optimization of abnormal energy consumption, precise site energy consumpt=
+ion
+  planning, and site asset check.<br>
+    Based on the OWS platform, the network-wide site energy consumption &am=
+p;
+  KPI visualization solution is provided. By combining offline and online d=
+ata,
+  this solution establishes a single-site energy consumption baseline and
+  detects abnormal energy consumption in time. The app helps the O&amp;M te=
+am
+  quickly check site device assets and implement digital asset management. =
+The
+  industry-leading PhotonMind algorithm provides planning support for carri=
+ers
+  to accurately invest in energy reconstruction.<br>
+    The value of the solution has been fully verified in multiple energy
+  O&amp;M projects around the world. It can shorten the energy-caused site
+  breakdown duration by 10%, reduce abnormal energy consumption by 30%, and
+  lower the battery reconstruction investment by 10%.</td>
+  <td colspan=3D83 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DA4ED5.E9AF95D0
+Content-Location: file:///C:/F6D428EE/file9246_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../file9246.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DA4ED5.E9AF95D0--

@@ -1,0 +1,2686 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01DA4ED3.9712D230"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01DA4ED3.9712D230
+Content-Location: file:///C:/0AC49DF2/bigEN2.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"bigEN2_files/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"bigEN2_files/sheet001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D1;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Sheet1";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt ÀŒÃÂ;padding-le=
+ft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetSource HRef=3D"bigEN2_files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"bigEN2_files/stylesheet.css"/>
+  <x:WindowHeight>15345</x:WindowHeight>
+  <x:WindowWidth>28800</x:WindowWidth>
+  <x:WindowTopX>7080</x:WindowTopX>
+  <x:WindowTopY>3945</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"bigEN2_files/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"bigEN2_files/tabstrip.htm" name=3D"frTabs" marginwidth=3D0 m=
+arginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01DA4ED3.9712D230
+Content-Location: file:///C:/0AC49DF2/bigEN2_files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="gb2312"
+
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:µ»œﬂ;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+.font5
+	{color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.font7
+	{color:red;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.font8
+	{color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;}
+.font10
+	{color:red;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;}
+.font11
+	{color:black;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;}
+.font12
+	{color:red;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:µ»œﬂ;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl66
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl67
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl68
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;
+	text-align:left;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl69
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl70
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:Œ¢»Ì—≈∫⁄, sans-serif;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+
+------=_NextPart_01DA4ED3.9712D230
+Content-Location: file:///C:/0AC49DF2/bigEN2_files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../bigEN2.htm">
+<![if IE]>
+<base href=3D"file:///C:/0AC49DF2/bigEN2_files/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"ÀŒÃÂ" color=3D"#000000">Sheet1</font>=
+</a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01DA4ED3.9712D230
+Content-Location: file:///C:/0AC49DF2/bigEN2_files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../bigEN2.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/0AC49DF2/bigEN2_files/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:µ»œﬂ;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../bigEN2.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D144 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:108pt'>
+ <col width=3D72 span=3D2 style=3D'width:54pt'>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;width:54=
+pt'>What is
+  the general introduction to the case of China Mobile Zhejiang?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-left:none;width:54pt'>In 2022=
+, China
+  Mobile Zhejiang's operating revenue reached 67 billion RMB, or about 10
+  billion dollars.<br>
+    In To C, there are 77.5 million mobile users, accounting for about 60% =
+of
+  the total revenue. The mobile penetration rate is far higher than 100%. A=
+bout
+  120,000 5G base stations have been built.<br>
+    The total revenue of home broadband is about 15%. Currently, there are =
+more
+  than 20 million broadband users, with a market share of about 60%, among
+  which gigabit users account for 25%.<br>
+    China Mobile Zhejiang now serves more than 7000 To B enterprises,
+  accounting for more than 20% of the total revenue. It is planned that the
+  proportion of TO B revenue will reach 40% by 2025. TO B will become a new
+  second growth curve, a new growth engine.<br>
+    Huawei and China Mobile Zhejiang have been cooperating with each other
+  since 2014 in terms of infrastructure, O&amp;M, and digital services, hel=
+ping
+  China Mobile Zhejiang achieve business success.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl66 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is the digital transformation strategy of China Mobile
+  Zhejiang?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>China
+  Mobile Zhejiang continues to actively implement the Group's strategic
+  deployment, anchors the development orientation of the &quot;world-class
+  information service technology innovation company&quot;, and continuously
+  explores and practices the road of digital transformation with the main l=
+ine
+  of &quot;promoting digital transformation and achieving high-quality
+  development&quot;.<br>
+    1. In the digital infrastructure field, we have built the foundation for
+  cloud-and-network synergy, intelligent and efficient intelligent connecti=
+ons
+  by relying on core digital technology capabilities.<br>
+    2.<span style=3D'mso-spacerun:yes'>&nbsp; </span>In the O&amp;M digital
+  field, we have reconstructed the operation mode and improved user experie=
+nce
+  with the support of AI. Provide users with assured and high-quality
+  information and communication services.<br>
+    3. In the digital business field, we enrich 5G digital life application=
+s,
+  promote 5G integration into the core social and economic sectors, and con=
+tinuously
+  consolidate the new foundation of the digital economy.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl66 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does China Mobile Zhejiang promote the transformation of
+  digital intelligence?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  we know, the digital intelligence transformation is a systematic project.
+  China Mobile Zhejiang promotes the transformation through the following f=
+our
+  key steps:<br>
+    1. Perception system establishment: A three-dimensional integrated
+  perception evaluation system is systematically established to bridge netw=
+orks
+  and business scenarios from network performance, service quality, and
+  customer experience, implementing intelligent perception, automatic analy=
+sis,
+  and closed-loop decision-making.<br>
+    2. Converged platform evolution: Continuously build solid data foundati=
+on
+  (O+B+S converged data governance) and intelligent engine (policy+AI+knowl=
+edge
+  computing) to support various application scenarios.<br>
+    3. Optimization of the production process: Proactively identified proce=
+ss
+  breakpoints, greatly improved the production efficiency and customer
+  experience through the intelligent data platform and capabilities, and
+  supported major processes such as complaint handling, satisfaction
+  management, and poor-quality work order management.<br>
+    4. Joint technological innovation: Since 2014, with the evolution of
+  network technologies and the continuous enrichment of service scenarios,
+  China Mobile Zhejiang, together with partners such as Huawei, has continu=
+ously
+  intensified technological innovation and incubated multiple innovative UCs
+  and capabilities in the To C, To H, and To B fields. Includes<font
+  class=3D"font7"> VOLTE, VONR, CCM, LOT, 5G To B</font><font class=3D"font=
+5">, and
+  Product Broadband Assistant.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does China Mobile Zhejiang improve user experience &amp;<=
+span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>customer satisfaction &amp;
+  Experience-driven digital intelligence transformation?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  fact, China Mobile Zhejiang started its experience transformation journey=
+ in
+  2014. After nearly 10 years of practice and innovation, it has formed a
+  leading knowledge and experience system.<br>
+    1. To C: Change from passive to proactive to improve customer satisfact=
+ion.
+  China Mobile Zhejiang has 77 million To C subscribers, with a market shar=
+e of
+  70%. How to turn the &quot;invisible and untouchable&quot; customer
+  experience into &quot;evaluable and analytical&quot; certainty is a
+  challenge. Based on AI modeling and knowledge calculation, identify
+  derogatory users, and implement proactive satisfaction management and
+  improvement through end-to-end fault demarcation, location, rectification,
+  and effect evaluation. The number of derogatory users in the province dro=
+pped
+  by 30%.<br>
+    2. To H: from connections to services, leading high-quality home broadb=
+and.
+  China Mobile Zhejiang's HBB market share is 60.9%. How to improve the HBB
+  satisfaction and reduce the investment ratio per 10,000 is a must-answer
+  question.<font class=3D"font7"> The ADO solution (by deploying the AEC pr=
+obe on
+  the OLT)</font><font class=3D"font5"> proactively detects and identifies =
+the
+  Internet access jam, disconnection, and slow problems, quickly analyzes a=
+nd
+  locates the problems, and quickly and efficiently resolves the problems in
+  each service line, improving the customer satisfaction. Currently, China
+  Mobile Zhejiang's HBB Group ranks among the top three in terms of customer
+  satisfaction. It has achieved the broadband strategy of leading scale and
+  quality. According to the best practice of China Mobile Huzhou, the ratio=
+ of
+  home broadband investment per 10,000 is reduced by 52%.<br>
+    3. To B: From private lines to private networks, build </font><font
+  class=3D"font7">deterministic SLAs</font><font class=3D"font5">. China Mo=
+bile
+  Zhejiang's To B revenue accounted for 21% in 2012. There are about 7000 5=
+G To
+  B enterprises, with a new market share of 65%. The development potential =
+is
+  huge. China Mobile Zhejiang focuses on how to make To B service quality
+  visible and manageable and ensure differentiated experience. A 5G To B
+  experience assurance management system is built to make enterprise users
+  visible and service quality manageable. Poor-quality demarcation takes le=
+ss
+  than 5 minutes.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does China Mobile Zhejiang promote O&amp;M transformation=
+?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>China
+  Mobile Zhejiang and Huawei jointly build a new-generation fault management
+  system, reconstructing the O&amp;M mode with intelligent data and
+  implementing value-driven O&amp;M transformation.<br>
+    1. One fault, one work order, improving O&amp;M efficiency. O&amp;M
+  personnel orchestrate alarm compression rules and combine the AI fault
+  propagation diagram to compress 3.2 million alarms per day to 5400 work
+  orders, implementing one work order for one fault and improving the overa=
+ll
+  troubleshooting efficiency by 30%.<br>
+    2. Event system innovation and O&amp;M quality improvement. With the fa=
+ult
+  automation solution, network faults can be detected within 1 minute, loca=
+ted
+  within 5 minutes, and rectified within 15 minutes, implementing automatic=
+ driving
+  for minor faults and assisting decision-making for major faults.<br>
+    3. Everything is visible and O&amp;M is visible. In routine monitoring =
+and
+  O&amp;M, the headquarters can view, manage, and control the information on
+  the entire network. By using the concept of digital twin network, the
+  headquarters integrates multi-dimensional visualized information and
+  transforms the traditional monitoring mode that relies on text information
+  such as alarms and performance information into a graph-centered monitori=
+ng
+  mode. Visualized command and dispatch mode with everything visible.</td>
+ </tr>
+ <tr height=3D527 style=3D'height:395.25pt'>
+  <td height=3D527 class=3Dxl65 width=3D72 style=3D'height:395.25pt;border-=
+top:none;
+  width:54pt'>What are the To B practices of China Mobile Zhejiang?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  the To B field, China Mobile Zhejiang has launched 5G To B services in the
+  mall, covering 15 industries, including manufacturing, ports, and mining,=
+ and
+  covering more than 40 standard products. And has built 28 provincial futu=
+re
+  factories and more than 170 5G demonstration factories in the province.</=
+td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does the To H service of China Mobile Zhejiang develop?</=
+td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  the To H field, China Mobile Zhejiang adheres to the concept of
+  &quot;grasping broadband means grasping the general trend&quot;, continuo=
+usly
+  expands the family moat, from the network to the home and then to the new
+  business field, and extends the &quot;Four Ones&quot; layer by layer to t=
+he
+  pan-home market. Continue to expand its leading advantages in scale, mark=
+et
+  share, and quality, and achieve efficient matching of end-network
+  service.<br>
+    1.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Emphasize both quantit=
+y and
+  quality and strengthen the gigabit leadership. On the one hand, follow the
+  principle of &quot;networks, terminals, and services follow the
+  industry&quot; to ensure the overall gigabit user experience. On the other
+  hand, through broadband/product/operation upgrade, optimize the gigabit u=
+ser
+  structure and achieve high-quality development.<br>
+    2.<span style=3D'mso-spacerun:yes'>&nbsp; </span>As a differentiated we=
+apon
+  of gigabit broadband, <font class=3D"font7">FTTR is the</font><font
+  class=3D"font5"> contact point between carriers and every high-value user=
+</font><font
+  class=3D"font7">. FTTR is a</font><font class=3D"font5"> strategic upgrad=
+e from
+  &quot;simple networking products&quot; to &quot;building new marketing and
+  production relationships for To H&quot;.<br>
+    3.<span style=3D'mso-spacerun:yes'>&nbsp; </span>To H product layout is
+  gradually optimized for home users. Broad</font><font class=3D"font7">ban=
+d TV
+  is th</font><font class=3D"font5">e basis (market share: 63.8%), surveill=
+ance
+  and scenario-based services are the core (first in the group), and the
+  innovation battleground is the whole house intelligence is the future, and
+  the product pipeline has taken shape.<br>
+    4. Finally, extend the scenario to communities, villages, and shops. Fo=
+cus
+  on monitoring and business broadband, build a one-kilometer life circle f=
+or
+  all families, and strive to compete for the market landscape.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the Quality Connection/ToC/BEST network practices of
+  China Mobile Zhejiang?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  a pioneer in China's 5G construction, China Mobile Zhejiang has maintaine=
+d a
+  leading network since building the first 5G city in 2018 and will further
+  build the first 5G-A city this year.<br>
+    Last year, China Mobile Zhejiang ranked first in 10 excellent scenarios=
+ and
+  ranked first in 5G speed crowdtesting, bringing excellent 5G experience to
+  users. The leading network and experience helped China Mobile Zhejiang se=
+ize
+  the market opportunity and won the first 5G distribution ratio and the fi=
+rst
+  5G market share in the country.<br>
+    China Mobile Zhejiang and Huawei jointly developed mature practices in
+  scenic spots, stadiums, high-speed railways, and CBDs, helping China Mobi=
+le
+  Zhejiang to achieve the three-leading network, experience, and market.</t=
+d>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does China Mobile Zhejiang improve network quality? How to
+  build the first 5G city?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Experience
+  optimization solutions and practices for China Mobile Zhejiang in four key
+  scenarios: scenic spots, Asian Games venues, high-speed rail, and CBD.<br>
+    The first scene is: boutique scenic spot. For example, the West Lake is=
+ the
+  most popular scenic spot in Hangzhou. During the peak holiday season, the
+  tourist density increases by more than four times, and the daily reception
+  reaches 300,000 people. The demand for multi-service experience such as v=
+ideo
+  and live broadcast is extremely strong. We use the carrier aggregation
+  technology to aggregate 2.6 GHz and 4.9 GHz into a larger bandwidth, from=
+ 100
+  MHz to 200 MHz. To fully utilize the value of the two bands, we use the 2=
+.6
+  GHz+4.9 GHz coordinated optimization solution to greatly improve user exp=
+erience
+  and increase the downlink user-perceived rate by 80% for West Lake touris=
+ts.
+  The uplink user-perceived rate increases by 100%.<br>
+    The second scene is: boutique venues. The main hall of the Hangzhou Asi=
+an
+  Games can accommodate 80,000 spectators. The 2.6 GHz+4.9 GHz ultra-dense
+  network increases the cell bandwidth from 100 Mbit/s to 260 Mbit/s.
+  Distributed MIMO is used to reduce cell interference and increase the
+  downlink user-perceived data rate by 38% and the uplink user-perceived da=
+ta
+  rate by 64%. By deploying beamforming antennas, the interference from
+  neighboring cells is reduced by 10 pp. The preceding solution increases t=
+he
+  user-perceived downlink rate by 3.4 times and the 5G process by 10 times.=
+ At
+  the same time, we have achieved quick vision, quick management, and quick
+  optimization in network assurance. It takes only 5 minutes to detect and
+  close problems.<br>
+    The third scenario is: high-quality high-speed rail. Zhejiang province =
+has
+  a high-speed railway mileage of 1880 km. When the high-speed train runs a=
+t a
+  speed of 350 km/h, the rate of users drops to the bottom every 3 seconds =
+due
+  to cell handovers along the road, and 80% of areas are interfered by publ=
+ic
+  network cells along the high-speed railway. China Mobile Zhejiang Branch =
+uses
+  the cell combination technology to reduce inter-cell handovers and keep t=
+he
+  network rate at a high speed, increasing the average user rate by 20%. The
+  spatial multiplexing technology enables frequency reuse and doubles the
+  resource capacity. This feature reduces the interference caused by the pu=
+blic
+  network to the high-speed railway dedicated network by 30%. We also have a
+  special optimization solution to improve the coverage and speed of the
+  high-speed rail network. The combined solution improves the downlink and
+  uplink 5G user experience rates by 1.9 times and 1.8 times for high-speed
+  railway users, providing the ultimate experience at a speed of 350
+  km/h.<br>
+    The fourth scenario is: boutique CBD. According to network insights bas=
+ed
+  on cloud-based data (note: cloud-based data in China and crowd-tested data
+  outside China), 5G network coverage in 20% high-rise buildings in Hangzho=
+u is
+  poor, and the camping ratio of 5G users is 10 pp lower than the average.
+  China Mobile Zhejiang deployed 700 Mbit/s in areas with poor 5G coverage =
+and
+  no 5G coverage, increasing the coverage rate by 15%. (700 MHz can penetra=
+te
+  two walls, compared with 2.6 GHz can penetrate only one wall.) To impleme=
+nt
+  ACP intelligent optimization in the existing 700 MHz network, perform ACP
+  intelligent optimization. In addition, China Mobile Zhejiang uses beam-le=
+vel
+  interference check to accurately and efficiently detect 5G interference
+  sources, which improves the accuracy by 10 times compared with traditional
+  cell check methods.<br>
+    The combination of all the preceding solutions increases 5G users by 15%
+  and 5G traffic by 10%.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does China Mobile Zhejiang do a good job in ensuring the
+  Asian Games?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>The
+  biggest difference in the Asian Games support is that we have provided st=
+rong
+  technical support for the smooth progress of the Asian Games through the
+  Asian Games support command screen as an important implementation tool. We
+  have completed the construction of the Asian Games public and private
+  network, and have created a number of landmark achievements of the Metaco=
+smic
+  Asian Games and intelligent viewing.<br>
+    The main advantages of the Asian Games support command screen are the
+  ultimate perception, the ultimate space-time, the ultimate interaction, a=
+nd
+  the ultimate self-intelligence. Full-time, all-domain, and all-weather
+  ultimate awareness of the Asian Games network, and associated display of =
+the
+  network operation situation in time and space, providing us with a dynamic
+  view of the network operation evolution. Our systems support multi-screen
+  agile and efficient collaborative operations, while our networks are high=
+ly
+  intelligent to ensure business continuity.<br>
+    We all-round perception of the network three-dimensional view, build a =
+new
+  security protection system based on the computing network brain, and
+  implement computing network security scheduling. In terms of urban operat=
+ion,
+  we have visualized urban conditions such as passenger flow, transportatio=
+n,
+  and economy, and demonstrated the communication support capability of urb=
+an
+  operation in an all-round way.<br>
+    For the stadium situation, we monitor and schedule the network situatio=
+n of
+  the Asian Games venues in real time to ensure that &quot;user access, ser=
+vice
+  bearing, and perception are guaranteed&quot;. In terms of the AGIS situat=
+ion,
+  we have realized end-to-end network quality visualization at different le=
+vels
+  from the competition system, AGIS network, and competition terminal.<br>
+    To sum up, the Asian Games support command screen provides powerful net=
+work
+  operation and security assurance for the Asian Games in a comprehensive,
+  efficient, and real-time manner through the system with the advantages of
+  ultimate perception, ultimate space-time, ultimate interaction, and ultim=
+ate
+  self-intelligence.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl67 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Introduce the<span style=3D'mso-spacerun:yes'>&nbsp;
+  </span>overview of the<span style=3D'mso-spacerun:yes'>&nbsp; </span>case=
+ in
+  Argentina telecom.</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  the largest integrated operator in Argentina, Telecom Argentina has a lar=
+ge
+  number of users in the mobile, broadband, and fixed-line fields. As of 20=
+23,
+  the company has 20.5 million subscribers in mobile, 4.1 million in broadb=
+and
+  and 3 million in fixed-line. In recent years, TA's business strategy has
+  shifted from providing independent services to providing convergent servi=
+ces
+  and laying out new digital services in advance.<br>
+    Huawei has been cooperating with TA for many years and has achieved exc=
+ellent
+  business achievements in mobile user experience improvement, fixed network
+  user experience improvement, and convergent charging. NPS has increased by
+  10%, ranking No. 1. NPS has stimulated user traffic and increased DOU by
+  12.3%. This further helped TA achieve a 9% increase in mobile subscribers=
+. TA
+  is dedicated to providing users with the best voice and video experience =
+and
+  has built the best experience ranking (ranked No. 1 for six consecutive
+  years).</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl67 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does<span style=3D'mso-spacerun:yes'>&nbsp; </span>Telecom
+  Argentina<span style=3D'mso-spacerun:yes'>&nbsp; </span>improve user
+  experience?<br>
+    How to build a Best network?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Telecom
+  Argentina cooperated with Huawei to develop a series of experience
+  improvement projects, such as high-quality voice, high-quality video, and
+  best-experience ranking.<br>
+    1.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Best voice experience:=
+ The<font
+  class=3D"font7"> VOLTE MOS sco</font><font class=3D"font5">re is 3.8 in t=
+he
+  uplink and 3.9 in the downlink. To improve user experience in voice servi=
+ces,
+  the multi-dimensional voice modeling and optimization method is used to
+  achieve basic coverage, reduce interference, and preferentially guarantee
+  high-traffic areas. The grid-level multi-factor optimization model is use=
+d to
+  find the global optimal performance parameters, such as the power, azimut=
+h,
+  and downtilt. Th</font><font class=3D"font7">e MOS in </font><font class=
+=3D"font5">the
+  uplink and downlink reaches 4.23.<br>
+    2. Best video experience: SmartCare can view the overall experience
+  insight.</font><font class=3D"font7"> Telecom Argentina monitors CEI, QOE=
+, and
+  KQIs every da</font><font class=3D"font5">y. Telecom Argentina improves n=
+etwork
+  capacity through </font><font class=3D"font7">700 MHz+1900 MHz du</font><=
+font
+  class=3D"font5">al-band coordination and network reconstruction fro</font=
+><font
+  class=3D"font7">m 2T to 4T,</font><font class=3D"font5"> solves the netwo=
+rk
+  resource congestion problem in the area, and reduces the flow user
+  dissatisfaction rate to 8.27%.<br>
+    3. Best experience ranking: According to Huawei's virtual drive test
+  network insight method, Telecom Argentina finds that only 87.2% of the
+  downlink throughput is greater tha</font><font class=3D"font7">n 5.5 Mbit=
+/s. </font><font
+  class=3D"font5">Similarly, only 75.5% of the uplink throughput is greater=
+ th</font><font
+  class=3D"font7">an 1 Mbit/s. </font><font class=3D"font5">Telecom Argenti=
+na
+  deploys new sites in areas with coverage holes and perfor</font><font
+  class=3D"font7">ms RF optim</font><font class=3D"font5">ization in overla=
+pping
+  areas to reduce interference. This greatly improves mobile network
+  experience. The proportion of downlink throughputs greater tha</font><font
+  class=3D"font7">n 5.5 Mbit/s </font><font class=3D"font5">increases to 93=
+.1%, and
+  the proportion of uplink throughputs greater tha</font><font class=3D"fon=
+t7">n
+  1 Mbit/s </font><font class=3D"font5">increases to 84.6%. According to the
+  OpenSignal third-party network evaluation report, TA ranks No.1 in the
+  downlink experience rate for six consecutive years.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl67 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Telecom Argentina develop home broadband services £ø=
+</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Currently,
+  the home broadband NPS of TA lags behind the competition. To ensure the
+  experience of FMC high-value users, Telecom Argentina aims to achieve the
+  fixed network NPS No.1 in the next two years.<br>
+    To achieve this goal, <font class=3D"font7">Telecom Argentina introduce=
+d ADO</font><font
+  class=3D"font5"> in 2012 to proactively gain insight into, optimize, and =
+manage
+  home broadband customer experience based on t</font><font class=3D"font7"=
+>he
+  CEI syst</font><font class=3D"font5">em. The construction of the</font><f=
+ont
+  class=3D"font7"> CEI syst</font><font class=3D"font5">em depends on the a=
+nalysis
+  and modeling of complex indicators in terms of service experience, network
+  connection quality, and home quality. The CEI system can accurately refle=
+ct
+  the actual experience of home broadband customers, analyze quality gaps, =
+and
+  track optimization effects. After the system went live in the first half =
+of
+  23, the </font><font class=3D"font7">ONT and CDN p</font><font class=3D"f=
+ont5">roblems
+  have been optimized, and the list of potential l</font><font class=3D"fon=
+t7">ow
+  NPS users</font><font class=3D"font5"> has been provided. TAs can be reta=
+ined
+  by compensation packages. To accurately devel</font><font class=3D"font7"=
+>op
+  FMC sub</font><font class=3D"font5">scribers, TAs accurately segment exis=
+ting
+  subscribers by feature and identify h</font><font class=3D"font7">igh-ARP=
+U </font><font
+  class=3D"font5">subscribers, home subscribers, and video subscribers. And=
+ to
+  these different types of users for precision marketing.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the measures for developing digital services in Tele=
+com
+  Argentina?<br>
+    How to develop digital services?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  recent years, Telecom Argentina's business strategy has shifted from
+  providing independent services to providing convergent services and laying
+  out new digital services in advance. To achieve this goal, we have been
+  cooperating with Telecom Argentina for many years to gradually integrate a
+  large number of isolated charging systems on the live network to build a
+  fully integrated charging system and better monetize various services. We
+  focus on two initiatives and results:<br>
+    1. The first is about developing new customers. Based on the convergent
+  charging system, the Telecom Argentina can launch new products such as
+  cross-marketing within 1-2 days. This speed is important for the Telecom
+  Argentina to quickly occupy the market. During the 2022 World Cup, Telecom
+  Argentina quickly launched a cross-marketing campaign that included pay T=
+V,
+  mobile and internet services using the strengths of its Flow brand in vid=
+eo
+  content. The move has greatly increased the monthly additions of all bran=
+ds.
+  New users fo<font class=3D"font7">r IPTV &quot;Flow Flex&quot; g</font><f=
+ont
+  class=3D"font5">rew sixfold in the month, and new users for mobile &quot;=
+Flow
+  Pass&quot; grew 69%. Converged products bring a win-win situation to both=
+ the
+  Personal and Flow brands.<br>
+    2. The second aspect is abou</font><font class=3D"font7">t NPS i</font>=
+<font
+  class=3D"font5">mprovement. After a user accesses the network, the Telecom
+  Argentina provides a series of one-stop experience. (Unified customer ser=
+vice
+  center, unified package subscription, unified app, and unified bill), whi=
+ch
+  greatly improves user experience. According to the churn rate data of mob=
+ile
+  users in recent years, each cross-marketing promotion can significantly
+  reduce the churn rate of users in the next few months.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please general introduction to the Ethiopian Telecom case.</t=
+d>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Ethiopia
+  Telecom has a history of 129 years. Ethiopia Posts and Telecommunications
+  Bureau was founded in 1894. Currently, Ethiopia Posts and Telecommunicati=
+ons
+  Bureau continues to undergo digital transformation, including micro-finan=
+ce
+  service release, micro-modular DC modernization, cloud service developmen=
+t,
+  and Mobile Money SuperAPP release.<br>
+    Only 35 million people in Ethiopia have access to banking services, but=
+ 72
+  million have mobile phones. Thus, a series of local initiatives and
+  programmes have been customized, such as mobile inclusive financial servi=
+ces
+  for people without bank accounts; Provide services such as advanced finan=
+cial
+  services for people with bank accounts.<br>
+    Up to now, Ethiopia Telecom has achieved remarkable results: User growt=
+h:
+  34 million registered users in two years, the fastest speed in the indust=
+ry;
+  Transaction growth: In the past half year, the transaction processing amo=
+unt
+  i<font class=3D"font7">s US$12 billion</font><font class=3D"font5">, equi=
+valent
+  to 10% of Ethiopia's GDP. Micro-finance innovation: Huawei has developed 1
+  million users in the past seven months, surpassing the 400,000 users in t=
+he
+  Ethiopian banking industry in the past 20 years.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is the overall development strategy of Ethiopia Telecom
+  2025?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Ethiopia
+  Telecom's Lead Growth 2025 strategy aims to lead the industry digitalizat=
+ion
+  process and realize the digitalization of Ethiopia. The core of this stra=
+tegy
+  is the continuous growth of services. Up to now, Ethiopia Telecom has 72
+  million mobile and fixed network users and achieved a penetration rate of=
+ 47%
+  of Mobile Money services, that is, 34.8 million users. By expanding the
+  service boundary, Ethiopia Telecom has achieved a compound growth rate of
+  more than 20% in the past three years.<br>
+    Ethiopia Telecom has been striving to achieve ultimate user experience =
+and
+  excellent service operations through digital transformation, which is clo=
+sely
+  related to Ethiopia Telecom's strategy of becoming a leader in digital
+  solutions.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'><br>
+    What are the achievements of Ethiopia Telecom's the cornerstone of
+  inclusive finance and digitalization?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'><font
+  class=3D"font7">Telebirr is t</font><font class=3D"font5">he cornerstone =
+of
+  inclusive finance and digitalization in Ethiopia and has achieved remarka=
+ble
+  results in three areas.<br>
+    1. User development: The number of telecom subscribers was converted in=
+to
+  the number of telebirr subscribers. The number of telecom subscribers was
+  over 47% in two years. The main ways of transformation are agent network =
+and
+  online marketing; The number of registered users is 34 million in two yea=
+rs,
+  the fastest in the industry.<br>
+    2. Transaction growth: Connected to</font><font class=3D"font7"> 20+ ba=
+nks,
+  40+ public</font><font class=3D"font5"> service organizations, an</font><=
+font
+  class=3D"font7">d 60K+ merchant</font><font class=3D"font5">s, enabling u=
+sers to
+  access common services, such as bank transfer, car refueling, digital
+  lottery, tax payment, and e-commerce. Over the past six months, </font><f=
+ont
+  class=3D"font7">US$12 billion</font><font class=3D"font5"> was handled,
+  equivalent to 10% of GDP.<br>
+    3. Microfinance innovation: Based on local market requirements, Huawei
+  designed and launche</font><font class=3D"font7">d 5+ micr</font><font
+  class=3D"font5">o-finance services, and controlled the bad debt rate to l=
+ess
+  than 2% through end-to-end risk control. Market Insight found that 25 mil=
+lion
+  people borrowed over the past year, but only 400,000 borrowed and were
+  mortgaged. Mortgage requires property mortgage, and is not real-time, and
+  user experience is poor. Mainstream people spend betwee</font><font
+  class=3D"font7">n 100-10K birr a</font><font class=3D"font5"> month, and =
+people
+  often need these funds to weather temporary crises because of their unsta=
+ble
+  incomes. Therefore, micro-financial product design: based on user credit,
+  real-time cash loans to meet users' emergency needs. Repayment cycle, whi=
+ch
+  is based on the payroll cycle, i.e. weekly and monthly; The loan amount is
+  limited to the user's requirements. Interest rates refer to local competi=
+tive
+  prices, but thousands of people and thousands of faces, because everyone's
+  credit is different. 1 million subscribers in the last seven months,
+  surpassing the 400,000 subscribers the banking industry has grown over the
+  past 20 years.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How did Ethiopia Telecom develop and implement mobile financi=
+al
+  services?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>To
+  make full use of the value of huge telecom users, Ethiopia Telecom uses t=
+he
+  unified experience of all-channel users to accelerate the transformation =
+of
+  telecom users to Mobile Money users. For example, the packages displayed =
+on
+  the mobile money app and the telecom app are the same. In this case, the =
+10%
+  reward provided by Ethiopian Telecom through the mobile money channel can
+  convert telecom users more quickly.<br>
+    At the same time, Ethiopia Telecom uses the ne<font class=3D"font7">w B=
+SS
+  platfor</font><font class=3D"font5">m to provide th</font><font class=3D"=
+font7">e
+  Flexi poin</font><font class=3D"font5">t package, which converts any reso=
+urce
+  to the point consumption and DIY customized package. In this way, Ethiopia
+  Telecom provides personalized offerings for all users based on events and
+  festivals. Flexible release of marketing promotions such as groups.<br>
+    Finally, the real-time orchestration service dashboard is used to form a
+  closed loop, maximizing user value. The new service operation platform
+  improves O&amp;M efficiency by four times and ensures that the system
+  downtime is less than 1 hour per year.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Ethiopia Telecom achieve<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>high-quality user-centric operat=
+ions
+  through the digital transformation of O&amp;M?</td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Ethiopia
+  Telecom builds a digital operation platform to implement data-driven prec=
+ise
+  decision-making and build high-quality user-centric operations. In this w=
+ay,
+  Ethiopia Telecom:<br>
+    1. Precise Mobile Money development: Through the convergence of commerc=
+ial
+  and network data, the mobile money service (including channel agents and
+  users) is developed accurately and efficiently. The number of users reach=
+es<font
+  class=3D"font7"> 34+ million </font><font class=3D"font5">in two years, t=
+he
+  promotion conversion rate of target users is improved by three times, and=
+ the
+  revenue increa</font><font class=3D"font7">ses .</font><font class=3D"fon=
+t5"><br>
+    2. Efficient customer complaint handling: Collects and analyzes network,
+  terminal, and service experience data in quasi-real time to quickly locate
+  the root cause of complaints, and helps the customer complaint handling
+  personnel efficiently reply and close the closed-loop.<br>
+    3.Proactive VIP experience management: Real-time service quality monito=
+ring
+  is provided for VIP users, implementing proactive experience management a=
+nd
+  improving the satisfaction of key customers.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl65 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Ethiopia Telecom support the digital transformation =
+and
+  development of operations?<br>
+    </td>
+  <td class=3Dxl65 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>To
+  achieve data-driven efficient operation, Ethiopia Telecom continuously
+  enriches its digital operation platform capabilities through the following
+  three aspects:<br>
+    1. Converged platform evolution: Continuously build solid data foundati=
+on <font
+  class=3D"font7">(O+B+S converg</font><font class=3D"font5">ed data govern=
+ance)
+  and intelligent engine (policy+AI+knowledge computing) to support various
+  application scenarios.<br>
+    2. Collaboration between business and network: For business operation
+  scenarios, precise data analysis is used to achieve collaborative develop=
+ment
+  between business and network. These application scenarios include precise
+  user segmentation, product design, channel development, and precision
+  marketing.<br>
+    3. Perception system establishment: A three-dimensional integrated perc=
+eption
+  evaluation system is systematically established to bridge networks and
+  business scenarios from network performance, service quality, and customer
+  experience, implementing intelligent perception, automatic analysis, and
+  closed-loop decision-making.</font></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl67 width=3D72 style=3D'height:16.5pt;border-top=
+:none;
+  width:54pt'>°°</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl67 width=3D72 style=3D'height:16.5pt;border-top=
+:none;
+  width:54pt'>°°</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl67 width=3D72 style=3D'height:16.5pt;border-top=
+:none;
+  width:54pt'>°°</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl67 width=3D72 style=3D'height:16.5pt;border-top=
+:none;
+  width:54pt'>°°</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl67 width=3D72 style=3D'height:16.5pt;border-top=
+:none;
+  width:54pt'>°°</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Kenya Safaricom Overview &amp; Business Achievements</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  a leading telecom carrier in Africa, Safaricom is the first one to realiz=
+e a
+  full-stack digital transformation over the past 15 years, including digit=
+al
+  services, digital operation and digital infrastructure. Through digital
+  transformation, Safaricom has achieved 66% of th<font class=3D"font10">e =
+MBB </font><font
+  class=3D"font8">market share, No.1 for Home Connections, 97% of Mobile Mo=
+ney
+  market share and Best Network NPS.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce the overview of Kenya Safaricom's Digital
+  Intelligence Transformation and Achievements.</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Safaricom
+  is the first one to realize a full-stack digital transformation over the =
+past
+  15 years, including digital services, digital operation and digital
+  infrastructure. <br>
+    Since Safaricom launched the first Mobile Money platfor<font class=3D"f=
+ont10">m
+  M-PESA i</font><font class=3D"font8">n 2007, innovative digital services =
+such
+  as</font><font class=3D"font10"> LIPA NA M-PESA, M-PESA GLOBLE, M-PESA SU=
+PPER
+  APP, FULIZA etc</font><font class=3D"font8">. have been implemented throu=
+gh its
+  continuous innovation and evolution. Up to now, Safaricom°Øs </font><font
+  class=3D"font10">MM</font><font class=3D"font8"> has achieved 97% of the =
+market
+  share in Kenya. More than 70% of Kenya's GDP is carried b</font><font
+  class=3D"font10">y M-PESA, </font><font class=3D"font8">and </font><font
+  class=3D"font10">MM </font><font class=3D"font8">revenue accounts for nea=
+rly half
+  of Safaricom's total revenue. These digital services greatly facilitate
+  Kenyan people's life and enriches Kenyan people's digital life, become on=
+e of
+  the most successful cases in the global.<br>
+    With the rapid development of communications technologies and services,
+  Safaricom's network Operation is facing unprecedented challenges, includi=
+ng
+  but not limited to Organizations, Platforms, Criterial, and Processes that
+  need to be upgraded and adapted to the new development. In recent years,
+  Safaricom has put more attention to digital Operation transformation and
+  built its advanced digital platforms based on its E2E business process of
+  &quot;planning, construction, Operation, optimization, and marketing&quot=
+;.
+  In the past few years, Safaricom has launched</font><font class=3D"font10=
+">
+  NG-NOC, CVM, CRM a</font><font class=3D"font8">nd other systems, especial=
+ly in
+  2023 launched the industry-leadin</font><font class=3D"font10">g SOC </fo=
+nt><font
+  class=3D"font8">platform which implement data-driven and Fixed-Mobile con=
+verged
+  network performance monitoring, user experience management, a</font><font
+  class=3D"font10">nd CXO busine</font><font class=3D"font8">ss smart
+  decision-making support. Through continuous organization transformation,
+  process reconstruction, new criterial setup and digital operations, Safar=
+icom
+  significantly improved its operational efficiency and achieved business
+  success.<br>
+    Network, DC, and Cloud are the core infrastructures of Safaricom. In
+  addition to the continuous leadership of Mobile, Home broadband, and Cloud
+  networks, in recent years Safaricom has invested in</font><font class=3D"=
+font10">
+  3000+ site D.G Hybri</font><font class=3D"font8">d power Reconstruction, =
+2000+
+  site Solar green power Modernization, integrate new intelligent energy
+  O&amp;M system, and built a new-generation world-class Limuru Datacenter.
+  Through those efforts, Safaricom has built an advanced °∞Digital, Green,
+  Efficient, Simplified, and Intelligent°± network infrastructure, for exam=
+ple,
+  most of sites are</font><font class=3D"font10">°∞0°± D.G an</font><font
+  class=3D"font8">d powered by green energy. These methods support Safarico=
+m to
+  realize th</font><font class=3D"font10">e OPEX saving, bus</font><font
+  class=3D"font8">iness development Assurance, and Carbon Emissions Reducti=
+on.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce Kenya Safaricom MPESA digital service
+  development.</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Safaricom<font
+  class=3D"font10"> MPESA h</font><font class=3D"font8">as gone through two=
+ stages
+  of development in the past 15 years, and as a mature mobile payment servi=
+ce
+  provider,</font><font class=3D"font10"> MPESA w</font><font class=3D"font=
+8">ill
+  also enter its third stage of development. In these three stages, </font>=
+<font
+  class=3D"font10">MPESA has e</font><font class=3D"font8">xperienced from
+  traditional wallet business, to the second stage of financial business,
+  industrialized payment business and refined operations, to the third stag=
+e of
+  open ecology. With the continuous development of mobile payment business,=
+</font><font
+  class=3D"font10"> MPESA</font><font class=3D"font8"> has become an import=
+ant
+  growth engine for Safaricom. In the first stage, it accounted for 19.2% of
+  Safaricom's overall revenue, and now accounts for 38.3% (</font><font
+  class=3D"font10">MPESA b</font><font class=3D"font8">usiness is already
+  Safaricom's largest single business entity, surpassing data and voice
+  services). No</font><font class=3D"font10">w MPESA</font><font class=3D"f=
+ont8">
+  is still maintaining double-digit growth every year and is expected to
+  account for 50% of Safaricom's business scale in the future.<br>
+    In order to support the business demands of the three phases </font><fo=
+nt
+  class=3D"font10">of MPESA</font><font class=3D"font8">, Huawei assisted S=
+afaricom
+  in improving its capabilities in three dimensions: business development,
+  technology platform, and operation and maintenance effectiveness, achievi=
+ng
+  the continuous development o</font><font class=3D"font10">f MPESA busin</=
+font><font
+  class=3D"font8">ess.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What businesses have Kenya Safaricom MPESA developed in mobile
+  finance?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Financial
+  business is <font class=3D"font10">MPESA°Øs m</font><font class=3D"font8"=
+>ain
+  innovative business to increas</font><font class=3D"font10">e ARPU v</fon=
+t><font
+  class=3D"font8">alue in the second phase.<br>
+    </font><font class=3D"font10">MPESA's i</font><font class=3D"font8">nno=
+vative
+  business started with the small and micro lending </font><font class=3D"f=
+ont10">business-Fuliza</font><font
+  class=3D"font8">. In the past four years of business development, </font>=
+<font
+  class=3D"font10">Fuliza</font><font class=3D"font8"> business has develop=
+ed
+  rapidly and currently has</font><font class=3D"font10"> 13M use</font><fo=
+nt
+  class=3D"font8">rs. However, it is currently encountering bottlenecks in
+  business development, and the number of registered users o</font><font
+  class=3D"font10">f Fuliza is</font><font class=3D"font8"> sluggish.<br>
+    In order to further grow in the financial business field, </font><font
+  class=3D"font10">MPESA h</font><font class=3D"font8">as developed new bus=
+inesses
+  on the one hand, and on the other hand, it has also continued to explore
+  existing opportunities for lending business. In new business areas, </fon=
+t><font
+  class=3D"font10">MPESA </font><font class=3D"font8">actively carries out
+  financial business, including money market funds, stocks, insurance, etc.=
+ In
+  the existing loan business, users are segmented in a targeted manner, and
+  services such as agency lending, supply chain finance, and micro enterpri=
+se
+  loans are provided. For individual users, we have worked intensively to
+  develop a set of user value management processes from user registration, =
+to
+  user activation, to continuous improvement of user value.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Kenya Safariom achieve high-quality user development=
+ in
+  business development?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Background:
+  Safaricom business development is based on the Mobile connectivity. To
+  achieve a high quality of the mobile business growth, Safaricom thinks th=
+at
+  the key factors can be summarized as the User Cube business model.<br>
+    Layer1: Firstly, it°Øs the User Foundation targeting on 4G user increas=
+ing
+  which they achieved<font class=3D"font10"> 3M users</font><font class=3D"=
+font8">
+  growth. Secondly, to encourage the user to be Giga User, the user with mo=
+re
+  than 1GB traffic per month. As the comparison, when user from a non giga =
+user
+  to be a giga user, more than 160% usage growth. At last, Safaricom focuse=
+s on
+  the user value to accelerate the postpaid user development bringing more =
+than
+  13</font><font class=3D"font10">0% ARPU gro</font><font class=3D"font8">w=
+th.<br>
+    So, by User Foundation, User Usage, User Value, the User Cube business
+  development model accelerate the transformation from the user scale-up ph=
+ase
+  to e value-based digital operation phase.<br>
+    Layer2: During the execution, Safaricom built its own profiling system =
+for
+  digital marketing. <br>
+    For example,<span style=3D'mso-spacerun:yes'>&nbsp; </span>the aggregat=
+ion</font><font
+  class=3D"font10"> of SOC </font><font class=3D"font8">and mobile money da=
+ta helps
+  the full service user profiling. We can easily filter out the target user=
+ for
+  4G user migration with their location, affordability, data usage. <br>
+    After the growth of user accessed to 4G network, the next cycle is to e=
+ncourage
+  user usage. By the app behavior profiling, it becomes more direct usage
+  excitation by app bundle.<br>
+    Then, more active days is next actions on business development. As
+  currently the prepaid user is still the majority, by the profiling of dif=
+ferent
+  product demands of users, we can identify the relevance between a specific
+  product and user group.<br>
+    Layer3: All in all, the foundation enabler is the leading user experien=
+ce.</font></td>
+ </tr>
+ <tr height=3D132 style=3D'height:99.0pt'>
+  <td height=3D132 class=3Dxl68 width=3D72 style=3D'height:99.0pt;border-to=
+p:none;
+  width:54pt'>How does Safaricom improve the user experience?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>°°</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Kenya Safaricom improve customer experience for key =
+To C
+  events?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Traditional
+  customer experience focuses on passive response and cannot be proactively
+  guaranteed. Kenya Safaricom has added three valuable scenarios in the
+  customer experience domain: &quot;Key Event Assurance&quot;, &quot;VIP
+  Proactive Care&quot;, and &quot;<font class=3D"font10">MPESA Ex</font><fo=
+nt
+  class=3D"font8">perience Assurance&quot;. In addition, Kenya Safaricom
+  identifies, locates, and solves problems from three levels</font><font
+  class=3D"font10">: CXO,</font><font class=3D"font8"> department director,=
+ and
+  engineer.</font><font class=3D"font10"> The AHT w</font><font class=3D"fo=
+nt8">as
+  reduced from 235 minutes to less than 30 minutes.<br>
+    Key Event Assurance: On September </font><font class=3D"font10">6, KICC=
+ h</font><font
+  class=3D"font8">eld the Africa Climate Summit 2023. <br>
+    CXO: found that the number of subscribers and service volume in the KICC
+  area keep increasing, and alarms indicating poor user experience are
+  generated for some services in the KICC area through the KIA monitoring
+  dashboard. CXO requires SOC department to provide key assurance for the K=
+ICC
+  region and handle the experience problems found immediately.<br>
+    </font><font class=3D"font10">HOD: </font><font class=3D"font8">underst=
+and the
+  KPIs and traffic changes </font><font class=3D"font10">of CS, PS, and VOL=
+TE s</font><font
+  class=3D"font8">ervices every 5 minutes on the KICC assurance dashboard.<=
+br>
+    Engineers: obtain top cause values, top terminals, and top cells of</fo=
+nt><font
+  class=3D"font10"> VOLTE </font><font class=3D"font8">call drops, demarcate
+  problems based on SOC platform and send trouble tickets to frontline
+  engineers for troubleshooting.<br>
+    <br>
+    </font><font class=3D"font10">MPESA Experience Assurance£∫MPESA</font><=
+font
+  class=3D"font8"> is the most important services for Safaricom. There are =
+more
+  than 96% of active users are using this service. Safaricom team create a
+  dashboard for monit</font><font class=3D"font10">ors KQIs th</font><font
+  class=3D"font8">at are closely relate</font><font class=3D"font10">d to M=
+-PESA</font><font
+  class=3D"font8"> service users, usage times, data service traffic, and us=
+er
+  experience in real time. When there is a KQI in abnormal, engineer can do
+  multi-dimensional analysis.<br>
+    <br>
+    VIP Proactive Care: The SOC platform is used to improve VIP user experi=
+ence
+  from monitoring, analysis, and closed-loop end-to-end process. This secti=
+on
+  describes how Safaricom uses the SOC platform to monitor, demarcate, anal=
+yze,
+  and close-loop VOLTE one-way audio scenarios of VIP users, improving user
+  experience.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Kenya Safaricom to ensure business success through
+  collaborative operations?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Kenya
+  Safaricom's business success also benefits from its single-domain and
+  cross-domain experience and optimization, experience and O&amp;M, and
+  collaborative operation of experience and services. Build the best network
+  and provide the best experience through value-based precise planning and
+  competition analysis and assurance. Establish a<font class=3D"font10">n
+  SOC-centric E2E network </font><font class=3D"font8">planning, service
+  development, and service operation mechanism to support the rapid develop=
+ment
+  of core services and digital financial services.<br>
+    First, experience and optimization collaboration. Take WhatsApp experie=
+nce
+  assurance as an example. We provide E2E service and experience monitoring=
+ and
+  insight, multi-dimensional data association and analysis, and quickly
+  identify problem cells and root causes. Based on the network optimization
+  service, all-dimensional basic optimization, core network an</font><font
+  class=3D"font10">d RAN o</font><font class=3D"font8">ptimization, and Wha=
+tsApp
+  optimization are performed. In addition, the optimization results are vis=
+ible
+  online, greatly improving user satisfaction and reducing customer complai=
+nts
+  by more than 15%.<br>
+    Second, collaboration between experience and optimization. Based on the
+  capabilitie</font><font class=3D"font10">s of SOC FBB and SOC MBB,</font>=
+<font
+  class=3D"font8"> we have streamlined the work order system, charging syst=
+em, a</font><font
+  class=3D"font10">nd CVM sys</font><font class=3D"font8">tem to implement
+  automatic work order dispatch, greatly improving</font><font class=3D"fon=
+t10">
+  FO work</font><font class=3D"font8"> efficiency. In addition, the system =
+can
+  analyze affected services and affected users in real time. Based on the
+  service impact level, the system can send ca</font><font class=3D"font10"=
+>re
+  SMS message</font><font class=3D"font8">s in real time, reward care packa=
+ges in
+  real time, and send fault rectification notifications to implement No Nee=
+d to
+  Call, improving user experience and satisfaction.<br>
+    Third, experience and service collaboration. Fintech services and </fon=
+t><font
+  class=3D"font10">GSM s</font><font class=3D"font8">ervices can promote ea=
+ch other</font><font
+  class=3D"font10">. GSM s</font><font class=3D"font8">ervice data can also
+  coordinate 360-degree service insights and user development of financial
+  services. Take the OverDraft service as an example. Based on the multi-di=
+git
+  correlation analysis </font><font class=3D"font10">of SOC platfor</font><=
+font
+  class=3D"font8">m experience data and OverDraft platform data, 2.8 million
+  high-value users are accurately identified, which brings great significan=
+ce
+  to the development of OverDraft services.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is Kenya Safaricom's green strategy?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Kenya
+  Safaricom is the largest integrated carrier in Kenya. It is responsible f=
+or
+  providing stable network connections for more than <font class=3D"font10"=
+>30+
+  million</font><font class=3D"font8"> users across the country. In the past
+  three years, Kenya's oil price has increased by 55%, and electricity fees
+  have doubled. More importantly, to provide Kenyan people with higher-speed
+  network experience, networks have accelerated to</font><font class=3D"fon=
+t10">
+  4/5G.</font><font class=3D"font8"> With Safaricom's 5G deployment, (In 25
+  years, the number of users will increase from 200,000 to 3+ million.) As a
+  result, the power consumption of the site increases by 1.9 times, the ene=
+rgy
+  expenditure of the entire network increases significantly, and the carbon
+  emission increases significantly. The overall power supply in Kenya is
+  unstable. The power supply varies greatly in different regions.<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>As a result, the availability of=
+ many
+  sites is greatly affected, which brings great challenges to our network
+  supply.<br>
+    <br>
+    Kenya Safaricom has always been a socially responsible company. We have=
+ a
+  clear ESG strategy (2040) and our goal is to achieve carbon emission NetZ=
+ero
+  by 2040. For site integration facilities, we value site availabili</font>=
+<font
+  class=3D"font10">ty PAV, </font><font class=3D"font8">as well as energy
+  expenditure and carbon emissions per bit. One represents the stability of=
+ our
+  infrastructure and whether it can bring stable and reliable network
+  experience to consumers. The other represents the energy consumption and
+  carbon emission level of our infrastructure, bringing cheaper and
+  high-quality networks and greener social development.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are Kenya Safaricom's specific green development
+  actions/measures?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>1.
+  We carefully analyzed the energy infrastructure structure and energy
+  consumption pain points of the entire network. The most important thing i=
+s to
+  fundamentally change the energy supply structure of our site infrastructu=
+re,
+  focusing on &quot;oil and light advance&quot;. X years ago, Safaricom's X=
+XX
+  site required diesel generators to work for more than X hours every day to
+  supply power, resulting in energy consumption, O&amp;M, and carbon emissi=
+ons.
+  Therefore, Safaricom and Huawei jointly introduced a diesel hybrid system,
+  which uses the energy storage and circulation capabilities of lithium
+  batteries. The D.G. running time is greatly reduced by XX%.<br>
+    2. In addition, we clearly realize that PV is the first choice for clean
+  energy in the future. Therefore, we are actively introducing PV systems.
+  Currently, XX% of sites have deployed PV systems to further reduce the
+  proportion of fossil energy supply.<br>
+    3. Finally, after changing the energy supply structure, we and Huawei a=
+re
+  still trying to introduce intelligent technologies. By analyzing paramete=
+rs
+  such as equipment operating power consumption, mains supply status, and PV
+  power generation efficiency, we introduce artificial intelligence
+  technologies to dynamically adjust the energy storage cycle efficiency in
+  real time, significantly improving energy supply efficiency. The site PAV=
+ is
+  further improved and the power consumption is reduced by 1X%.<br>
+    A set of indicator systems is required to guide site selection and solu=
+tion
+  design. Network Carbon Emission Intensity (NCI) is a very important
+  indicator, which measures the carbon dioxide emitted per unit flow. A sma=
+ller
+  value indicates a higher carbon emission level. This indicator also indic=
+ates
+  the energy consumption level and OPEX level of the network. In Kenya
+  Safaricom, we recommend this KPI as a network appraisal KPI and continuou=
+sly
+  optimize it. From 720 in 2019 to 330 in 2021, the target is to 65 in the
+  future.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is the outlook for the future of Kenya Safaricom site
+  infrastructure?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Faced
+  with the challenges of increasing energy consumption and unstable energy
+  prices in the future, as well as Safaricom NetZero's strategy and
+  determination, we will firmly accelerate the introduction of clean energy=
+ and
+  intelligent technologies. In the future, we aim to supply XX% of our ener=
+gy
+  from clean energy. The entire site infrastructure is dynamically adjusted=
+ in
+  minutes to seconds using AI. Become a real intelligent green site network=
+ in
+  the future.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How to build Kenya Safaricom's data center architecture strat=
+egy
+  in the Kenya SFC case?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Kenya
+  Safaricom is the largest integrated operator in Kenya with more than
+  30million subscribers. With Safaricom's 5G deployment (number of users wi=
+ll
+  increase from 0.2 million to<font class=3D"font10"> 3+ million</font><font
+  class=3D"font8"> by 2025), To H home broadband service development (300,0=
+00
+  households t</font><font class=3D"font10">o 1+ millio</font><font class=
+=3D"font8">n
+  by 2025), Continuous growth of MPESA services (Cloud-based architecture,
+  increasing the number of transactions processed per second from 3000 to 5=
+000
+  by 2025), and DC Colo's business development </font><font class=3D"font10=
+">(1000+
+  rac</font><font class=3D"font8">ks can be leased in colo cabinets by 2025=
+).
+  Data volume and computing power are increasing rapidly. To match and supp=
+ort
+  network evolution and service revenue growth, Safaricom proposes the </fo=
+nt><font
+  class=3D"font10">&quot;1+4+X&quot; </font><font class=3D"font8">next-gene=
+ration
+  green DC target network architecture as the infrastructure foundation of
+  services. The new DC architecture is gradually implemented through DC
+  construction, reconstruction of old DCs, service migration, and closure of
+  some equipment rooms.<br>
+    The future-oriente</font><font class=3D"font10">d &quot;1+4+X&quot; dat=
+a ce</font><font
+  class=3D"font8">nter architecture will be built around the Limuru DC as t=
+he
+  central DC. For the Central DC, the number of cabinets is greater than 60=
+0,
+  the bandwidth is 400 Gbit/s, and the latency is less </font><font
+  class=3D"font10">than 50 ms.</font><font class=3D"font8"> For the Region =
+DC, the
+  number of cabinets ranges from 200 to 400, the bandwidth is 100 Gbit/s, a=
+nd
+  the latency is less than 30 ms. For the Edge DC, the number of cabinets is
+  less than 50, the bandwidth is 50 Gbit/s, and the latency is less than 10=
+ ms.
+  Safaricom's next-generation green data center network has four features:<=
+/font><font
+  class=3D"font10"> Green (using advanced solutions and technologies, PUE &=
+lt;
+  1.4), Reliability (Tier III+ design for simultaneous maintenance); Smart =
+(The
+  intelligent O&amp;M technology is used to achieve 7 x 24 x 365 O&amp;M, a=
+nd
+  platform tools are used to replace manual operations), Safety (diversity
+  design, meeting level 7 security requirements).</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce the history/process of AIS Thailand digital
+  transformation.</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Focusing
+  on AIS Thailand's comprehensive digital strategy °∞Cognitive Tech-Co°±, l=
+et's
+  look at the digital transformation journey and practices in the experience
+  domain:<br>
+    AIS comprehensively promoted digital transformation through four key st=
+eps:<br>
+    1. Define transformation strategy and maturity assessment: The maturity
+  assessment is conducted based on the <font class=3D"font10">TMForum°Øs CE=
+M</font><font
+  class=3D"font8"> maturity model to identify key gaps.<br>
+    2. Select high-value scenarios and build digital platform: Identify
+  high-value scenarios (customer service, network operation, and market
+  support) in the 2C domain by breaking down the transformation strategy, a=
+nd
+  identify high-value scenarios (complaint handling, VIP assurance, and data
+  monetization). Build a unified digital platform as the foundation to supp=
+ort
+  various business scenarios.<br>
+    3. Organization and process optimization: Identify business pain points,
+  streamline cross-department processes and data breakpoints, establish a
+  customer-centri</font><font class=3D"font10">c NSOC </font><font class=3D=
+"font8">team,
+  and work closely with surrounding business departments.<br>
+    4. Continuous practice and evolution: Aligning with the targets of busi=
+ness
+  departments, implementing in three domains: &quot;operational efficiency
+  improvement, customer experience improvement, revenue growth&quot;,
+  continuously practice and evolution.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the major aspects of digital transformation of AIS
+  Thailand experience?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>for
+  these three areas, let's look at the top half of the screen, with AIS best
+  practices:<br>
+    1. Operation efficiency improvement: Take the value scenario of
+  &quot;complaint handling&quot; as an example. By opening the complaint
+  process, identifying target gaps and process pain points, introducing<font
+  class=3D"font10"> UC such as CCA/CCH</font><font class=3D"font8"> on the
+  SmartCare digital platform, and deeply integrating with the customer's
+  installed bas</font><font class=3D"font10">e IM/SSM</font><font class=3D"=
+font8">,
+  the call agen</font><font class=3D"font10">t AHT </font><font class=3D"fo=
+nt8">reduced
+  by 25% and </font><font class=3D"font10">FCR increased by 15 PCT wi</font=
+><font
+  class=3D"font8">thin one year.<br>
+    2. Customer experience improvement: Traditional customer experience mai=
+nly
+  focuses on passive response, and cannot be proactively guaranteed. The ch=
+urn
+  analysis is based on the BSS system, without network cause analysis. Base=
+d on
+  the </font><font class=3D"font10">O+B+S c</font><font class=3D"font8">onv=
+erged
+  data, AIS adds two value scenarios: VIP active care and experience-driven
+  churn analysis. The churn rate decreases by 18% (including prepaid and
+  postpaid) and VIP subscriber complaint rate decreases by 14% within three
+  years.<br>
+    3. Data monetization: Traditional marketing is based on BSS domain data=
+ and
+  experience-based/diffuse marketing, with low conversion rate. By leveragi=
+n</font><font
+  class=3D"font10">g O+B+S con</font><font class=3D"font8">verged data and =
+Customer
+  360 intelligent profile, with AI technology, marketing success rate is
+  improved by accurately matching people, place, and offer. The AIS also sp=
+ills
+  data and capabilities to partners </font><font class=3D"font10">(such as
+  BTS/VGi), r</font><font class=3D"font8">eleasing the value of converged d=
+ata
+  and increasing business revenue </font><font class=3D"font10">by $6.6</fo=
+nt><font
+  class=3D"font8"> million within one year.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl70 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce the digital transformation of AIS Thailand
+  O&amp;M.</td>
+  <td class=3Dxl70 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Since
+  2018, AIS Thailand has cooperated with Huawei to implement digital O&amp;M
+  transformation.<br>
+    AIS digital O&amp;M transformation is divided into three phases.<br>
+    1,Automatic Operations. Since 2018, AIS has cooperated with Huawei to
+  transform from manual O&amp;M to automatic O&amp;M. By using the Auto
+  Correlation, Auto RCA, and Auto Diagnosis functions for the network alarm=
+s,
+  the original <font class=3D"font12">4M/Month</font><font class=3D"font11"=
+> alarms
+  are reduced to</font><font class=3D"font12"> 0.1M TT/Job.</font><font
+  class=3D"font11"> Helping increase FO efficiency by 25%.<br>
+    2,Service-oriented Operations. In the second phase, network faults are
+  reduced after automation, but the impact on services not getting any bett=
+er.
+  Therefore, AIS uses the NOC and SOC synergy to transform alarm-oriented
+  O&amp;M into service-oriented O&amp;M. It identifies service impacts when
+  network faults occur and prioritizes faults that have great service impac=
+ts.
+  This greatly reduces revenue loss and further improved FO efficiency by
+  10%.<br>
+    3,Zero Touch Operations. For the future, AIS is cooperating with Huawei=
+ to
+  transform automatic O&amp;M into intelligent O&amp;M. AI is used to analy=
+ze
+  alarms and predict risks, so as to achieve the goal of E2E fault automati=
+on
+  &gt; 95%.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl70 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the major aspects of AIS Thailand O&amp;M digital
+  transformation?</td>
+  <td class=3Dxl70 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>The
+  Intelligent O&amp;M Transformation Journey of AIS comes from the
+  transformation of the platform, process, and organizational talent.<br>
+    1,Platform Evolution. Transform the traditional Silo system into the
+  Unified Platform. Introduce Huawei SmartCare and AUTIN to the Unified
+  Platform and integrate these two systems. In addition, introduce
+  iStudio@AUTIN to support talent transformation.<br>
+    2,Process Optimization. Automatic Root Cause Identification and Service
+  Impact Analysis are implemented by using AUTIN Robot for complex E2E
+  troubleshooting. Automatic closure of faults that can be recovery remotel=
+y is
+  completed in AUTIN Robot. For faults that need to be recovery onsite, an =
+Job
+  is automatically dispatched to the field engineer.<br>
+    3,Organization &amp; Talent Transformation. Integrate the skills o<font
+  class=3D"font12">f FOs.</font><font class=3D"font11"> Combine the origina=
+l three
+  wireless teams into one team and combine the original four core/bearer
+  network teams into one team. Merge the NOC and SOC teams into the NSOC te=
+am
+  to support NE Problem Demarcation in the Complain Handling process and
+  Service Impact Analysis in the Incident Handling process.<br>
+    Transform traditional O&amp;M engineers into self-orchestration</font><=
+font
+  class=3D"font12"> DevOps </font><font class=3D"font11">engineers. Through=
+ the
+  transformation of platforms, processes, and organizational talent, AIS is
+  evolving °∞Towards Zero Touch Operations°± digital O&amp;M transformation=
+.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does AIS Thailand achieve 5G leadership?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'><span
+  style=3D'mso-spacerun:yes'>&nbsp;</span>AIS Thailand integrates<font
+  class=3D"font10"> O+B+S </font><font class=3D"font8">data, enables precis=
+ion
+  investment based on BI, enables potential customer acquisition based on A=
+I,
+  and enables precision marketing based on DI, achieving a leading 5G
+  market.<br>
+    1. BI enables precise investment: Through Device &amp; Network &amp;Tar=
+iff
+  collaboration, evaluates and scores areas (where there is 5G device &amp;
+  tariff but no 5G network), identifies high-value areas, and builds 5G sit=
+es.
+  The ROI of each site is increased by 120% (compared with 4G).<br>
+    2. AI-enabled potential customer acquisition: A user-centric 5G data se=
+t is
+  constructed based o</font><font class=3D"font10">n OSS+BSS c</font><font
+  class=3D"font8">onverged data, and the AI potential customer model is use=
+d to
+  accurately identify high-potential 5G users. The number of AIS 5G subscri=
+bes
+  increases from 1 million to over 4 million within two years.<br>
+    3. DI enables precision marketing: The Smart Decision solution introduc=
+es
+  digital twins technologies based on insights into people, place, product =
+and
+  experience, provides precise package suggestions for target user groups, =
+and
+  supports efficient decision-making. The</font><font class=3D"font10"> 5G =
+ARPU </font><font
+  class=3D"font8">is improved by 10% to 15% (compared with 4G).<br>
+    Excellent network performance is the basis for leading the 5G market. A=
+fter
+  the 5G network is established, AIS has introduced advanced technologies to
+  continuously optimize network performance, achieving leading performance =
+and
+  experience. Among them, the 5G population coverage ratio reaches 99%, the=
+ 5G
+  camping ratio reaches 82%, and the 5G downlink speed reaches 1.1 Gbps,
+  ranking No. 1 in Thailand. Conversely, leading network experience can bet=
+ter
+  support 5G user development and marketing.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the benefits of AIS Thailand data convergence?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>AIS
+  Thailand officially launched its home broadband plan in 2015 and began to
+  develop home broadband users on a large scale in 2018. In less than five
+  years, the number of home broadband users of AIS Thailand has grown to mo=
+re
+  than 2 million. The broadband revenue has increased by 20% every year. Wh=
+ile
+  the market share and revenue have increased rapidly, the home broadband u=
+ser
+  experience has become the first in Thailand. The success of AIS Thailand
+  broadband service development depends on customers' digital capability
+  construction and application. As early as 20 years ago, <font class=3D"fo=
+nt10">ADO
+  pr</font><font class=3D"font8">emium home broadband solution has been use=
+d as a
+  digital operation platform for AIS Thailand HBB service experience manage=
+ment
+  and UPSELL. <br>
+    1.Cockpit is mainly applied to AIS°Øs FBB departments. It proactively
+  identifies problems about home broadband user experience and service qual=
+ity,
+  implements proactive and continuous optimization at multiple layers of
+  business, networks, and services, ensuring the experience and satisfactio=
+n of
+  existing users and reducing churn.<br>
+    2.UPSELL is mainly used by the customer's CRM department. ADO provides
+  household-level user profiles based on insights of household value, online
+  behavior, application preference, and experience. This greatly expands the
+  market space for</font><font class=3D"font10"> AIS,</font><font class=3D"=
+font8">
+  increases the single-use</font><font class=3D"font10">r ARPU and in</font=
+><font
+  class=3D"font8">creases revenue with high quality.<br>
+    3.Finally, in the O&amp;M field, ADO provides quality insight from three
+  dimensions: connection, network, and service experience. In addition to E=
+2E
+  analysis at each layer, root cause analysis can be performed across layer=
+s.
+  This is effective for solving complex customer experience and quality
+  problems, greatly reducing ineffective site visits.<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does AIS Thailand develop charging services?<br>
+    </td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>AIS
+  is Thailand's largest operator with about 50 million subscribers. As you =
+can
+  see it provides a wide range of services for individuals, families, and
+  enterprises. Our cooperation with AIS Thailand started in 2017, we provid=
+ed<font
+  class=3D"font10"> OCS to </font><font class=3D"font8">support the monetiz=
+ation of
+  services. The name of the project is avatar. Since then, we have made a
+  series of achievements. For example, in 2020, </font><font class=3D"font1=
+0">AIS
+  Thailand launched the first 5G SA </font><font class=3D"font8">charging s=
+ystem.
+  This year, AIS Thailand is delivering the first cloud-native charging sys=
+tem
+  based o</font><font class=3D"font10">n the N-LIVE s</font><font class=3D"=
+font8">olution.<br>
+    The key capabilities that we call CFO for short: Cloud-native,</font><f=
+ont
+  class=3D"font10"> Fast TTM, </font><font class=3D"font8">All-in-one.<br>
+    First, OCS uses a series of latest cloud native technologies, such as g=
+ray
+  release</font><font class=3D"font10">, N-LIVE, </font><font class=3D"font=
+8">and
+  full-stack heterogeneous, to build a reliable, agile, and cost-effective
+  platform for AIS Thailand.<br>
+    The second key capability we provide for AIS is fast time to market, he=
+re
+  we have 2 cases: Quick offer configuration and DIY offer.<br>
+    The third key capability we provide for AIS Thailand is convergence. AIS
+  Thailand launched the first 5G SA charging system overseas, and the first
+  system with full cloud native architecture with N-LIVE solution.<span
+  style=3D'mso-spacerun:yes'>&nbsp;</span></font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl69 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does the AIS Thailand develop the video RBT service?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>Based
+  on our 41 million mobile subscribers and high <font class=3D"font10">VOLT=
+E pe</font><font
+  class=3D"font8">netration rate, AIS Thailand launchs Vid</font><font
+  class=3D"font10">eo RBT </font><font class=3D"font8">service which upgrad=
+es call
+  waiting from audio to video to develop new digital services£ª<br>
+    <span style=3D'mso-spacerun:yes'>&nbsp;</span>	</font><font class=3D"fo=
+nt10">Video
+  RBT </font><font class=3D"font8">improves user experience, To C users can=
+ watch
+  short videos for entertainment and DIY video</font><font class=3D"font10"=
+> RBTs</font><font
+  class=3D"font8"> for social sharing. In addition, To B advertising revenu=
+e is
+  generated by playing tourism video and enterprise advertisements for
+  users£ª<br>
+    <span style=3D'mso-spacerun:yes'>&nbsp;</span>	AIS Thailand develops se=
+rvices
+  in three-step. First, users are allowed to experience new services through
+  free trial. We promote termina</font><font class=3D"font10">l OEMs s</fon=
+t><font
+  class=3D"font8">uch as Samsung and Huawei to upgrade more terminal. And t=
+hen we
+  obtain the list of subscribers available on the device through SmartCare =
+and
+  enabled for free trial. Then, high-quality content is introduced to activ=
+ate
+  subscribers through personalized content operation. Currently, more than =
+4000
+  video content of multiple</font><font class=3D"font10"> CPs </font><font
+  class=3D"font8">has been aggregated. Finally, monetize content and
+  advertisements to obtain new revenue.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is Jazz's transformation?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  one of the major carriers in Central Asia, Jazz actively embraces
+  digitalization. Mr. Aamir Hafeez, CEO of Jazz, said: we are going to
+  transform Jazz into a digital lifestyle player because our ambition is mu=
+ch
+  bigger and broader.<br>
+    Phase 1: O&amp;M efficiency improvement. Jazz's digital transformation
+  greatly improves operation capabilities and O&amp;M efficiency throug<font
+  class=3D"font10">h CCA/CCH </font><font class=3D"font8">and VIP user
+  assurance.<br>
+    Phase 2: The best experience is provided to customers throug</font><font
+  class=3D"font10">h VOLTE and JazzFi </font><font class=3D"font8">and the
+  continuous growth of users.<br>
+    Phase 3: Digital life enablement, which is extended to the experience
+  improvement of multiple Jazz apps, enables users' digital life, and impro=
+ves
+  the marketing success rate by supporting marketing based on user behavior
+  data.<br>
+    Phase 4: Build a digital ecosystem, introduce more digital products to
+  provide users with seamless digital life experience, and achieve Deliver
+  valuable digital experiences for customers 1440 minutes of a day.<br>
+    </font><font class=3D"font10">Jazz's ARPU</font><font class=3D"font8">
+  increased by 20% and</font><font class=3D"font10"> DOU incre</font><font
+  class=3D"font8">ased by 3.5 times through the four-phase digital
+  transformation.<span style=3D'mso-spacerun:yes'>&nbsp;</span></font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the problems with the Jazz user experience? How to
+  improve user experience</td>
+  <td class=3Dxl68 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  the early stage of <font class=3D"font10">JazzFi </font><font class=3D"fo=
+nt8">development,
+  there are no monitoring methods for user experience. As a result, there a=
+re
+  many complaints from customers, fault locating and handling are
+  time-consuming and labor-consuming. In addition, potential users cannot be
+  accurately identified, for example, whether the mobile phone supports</fo=
+nt><font
+  class=3D"font10"> VOWi-Fi a</font><font class=3D"font8">nd whether the sw=
+itch is
+  turned on.<br>
+    Phase 1: O&amp;M efficiency improvement. Jazz's digital transformation
+  greatly improves operation capabilities and O&amp;M efficiency throug</fo=
+nt><font
+  class=3D"font10">h CCA/CCH and VIP</font><font class=3D"font8"> user
+  assurance.<br>
+    Phase 2: The best experience is provided to customers through </font><f=
+ont
+  class=3D"font10">VOLTE and JazzFi </font><font class=3D"font8">and the co=
+ntinuous
+  growth of users.<br>
+    Phase 3: Digital life enablement, which is extended to the experience
+  improvement of multiple Jazz apps, enables users' digital life, and impro=
+ves
+  the marketing success rate by supporting marketing based on user behavior
+  data.<br>
+    Phase 4: Build a digital ecosystem, introduce more digital products to
+  provide users with seamless digital life experience, and achieve Deliver
+  valuable digital experiences for customers 1440 minutes of a day.</font><=
+/td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What are the challenges in Jazz VoLTVOLTE development? How to
+  improve VOLTE customer experience?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>At
+  the initial stage, the number of <font class=3D"font10">Jazz VOLTE </font=
+><font
+  class=3D"font8">subscribers increases slowly, and the migration efficienc=
+y is
+  low. Jazz has a series of initiatives:<br>
+    1,Based on the perception-based indicator system, the system automatica=
+lly
+  locates problems in real time and ensures end-to-end user experience.<br>
+    2,16 groups of precise segmentation, corresponding to 6 marketing
+  solutions, effectively improving the marketing success rate compared with=
+ the
+  traditional wide-spread solution.<br>
+    3,Geographically displays the distribution o</font><font class=3D"font1=
+0">f
+  VOLTE s</font><font class=3D"font8">ubscribers, matches the corresponding
+  marketing scheme, and ranks regions by the number o</font><font class=3D"=
+font10">f
+  VOLTE su</font><font class=3D"font8">bscribers.<br>
+    4,Digitally display the </font><font class=3D"font10">VOLTE </font><font
+  class=3D"font8">user conversion rate and rapidly increase the number of u=
+sers.
+  By 2022, the number of</font><font class=3D"font10"> VOLTE </font><font
+  class=3D"font8">users will increase by 10 million, exceeding the target.<=
+/font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>How does Jazz develop OTT services &amp; Cash through the
+  smartcare? <br>
+    How does Jazz achieve precision marketing?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>SmartCare
+  brings great value to the stable operation o<font class=3D"font10">f OTT =
+se</font><font
+  class=3D"font8">rvices. The following section is the process of our entire
+  real-time marketing platform.<br>
+    1. many network events (such as Internet access, receiving SMS messages,
+  and receiving calls) are generated anytime and anywhere. Using probes, the
+  SmartCare can capture these events in real time. 2. Submit the subscribed
+  real-time event data to the marketing management module through the compl=
+ex
+  event processing process. 3.The marketing management module automatically
+  matches customer profiles and input events and identifies marketing conte=
+nt
+  to be pushed to users. 4. The push channels are diversified.<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>the push channels can be through=
+ the
+  call center, </font><font class=3D"font10">SMS/App/Web</font><font class=
+=3D"font8">,
+  and offline stores.<br>
+    In general, the features of SmartCare-based real-time context-based
+  marketing are as follows:<br>
+    A. Real-time: We can identify customer requirements in the first
+  place.<br>
+    B. Precise: The recommended content matches the customer exactly.<br>
+    C. Convenient: The app is non-intrusive and can quickly complete market=
+ing
+  settings and distribution.<br>
+    D. Flexible: Any combination of geographical location events and user
+  behavior events.<br>
+    <br>
+    How to achieve precision marketing:<br>
+    Currently, the SmartCare real-time marketing platform has been used by =
+13
+  self-operated apps and has greatly improved our app development. For
+  example:<br>
+    The number of</font><font class=3D"font10"> Deikho </font><font class=
+=3D"font8">(original
+  content platform for streaming) users has tripled a year.<br>
+    </font><font class=3D"font10">JazhCash</font><font class=3D"font8"> use=
+rs grow
+  rapidly, with a 150-fold increase in the number of users.<br>
+    </font><font class=3D"font10">BaJao </font><font class=3D"font8">(a mus=
+ic
+  platform) users increased by 70 times a year.<br>
+    The number of </font><font class=3D"font10">Tamasha</font><font class=
+=3D"font8">
+  (Jazz TV) subscribers increased by 7 times.<br>
+    </font><font class=3D"font10">Jazz (</font><font class=3D"font8">app) u=
+sers
+  grow fourfold in a year.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>What is the overview of MTN?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>As
+  the largest mobile telecom operator in Africa, <font class=3D"font10">MTN=
+ p</font><font
+  class=3D"font8">rovides voice, data, and financial technology services to=
+ more
+  than 290 million customers in 19 markets, and maintains good business
+  performance. In the first half of 2023, </font><font class=3D"font10">MTN=
+</font><font
+  class=3D"font8"> continued its growth as exhibited by key operating indic=
+ators
+  o</font><font class=3D"font10">f<span style=3D'mso-spacerun:yes'>&nbsp; <=
+/span></font><font
+  class=3D"font8">revenue growth, subscribers increase, and </font><font
+  class=3D"font10">EBITDA margin</font><font class=3D"font8">. </font><font
+  class=3D"font10"><span style=3D'mso-spacerun:yes'>&nbsp;</span>MTN </font=
+><font
+  class=3D"font8">has also achieved<span style=3D'mso-spacerun:yes'>&nbsp;
+  </span>°∞the most valuable African brand°± title.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce MTN's Digital Transformation Strategy -
+  PACE<span style=3D'mso-spacerun:yes'>&nbsp;</span></td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>In
+  2021 MTN released Ambition 2025 strategy to accelerate growth and unlock =
+the
+  value of its infrastructure assets and platforms. To expedite the executi=
+on
+  of Ambition 2025 strategy, a new framework is launched. This framework br=
+eaks
+  down the strategy at the network level and proposes the strategic concept
+  °∞PACE°±, focusing on four aspects:<br>
+    1. Platform, ecosystem, and service (P): Leverage platforms and related
+  digital ecosystems to achieve revenue growth.<br>
+    2. Agile operation model (A): Improve the agility of working methods,
+  governance, and organizational culture.<br>
+    3. Connectivity and infrastructure optimization (C): Realize first-class
+  ubiquitous connectivity and infrastructure monetization based on converged
+  networks.<br>
+    4. Ultimate experience (E): Provides ultimate user experience through
+  connections, platforms, and ecosystems.<br>
+    Through PACE, MTN adheres to the general concept of digital transformat=
+ion
+  and further breaks down the PACE into 15 pillars and these pillars are
+  further broken down into 45 specific programs hence providing a top-down
+  mapping and guidance of achieving the Ambition 2025 objectives through a =
+PACE
+  framework using specific programs. <br>
+    Digital Infrastructure and Digital O&amp;M will aim at Leading Performa=
+nce,
+  Digital Experience will aim at Leading Experience, Digital Services and To
+  C/To H Services Enablement will aim at Leading Business, and Talent
+  Transformation will serve as a solid foundation for all programs.</td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Please introduce MTN's digital transformation history and
+  practices.</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>On
+  the road of digital transformation exploration, MTN and Huawei have deeply
+  cooperated with each other and achieved phased milestones. Phase 1 from 2=
+017
+  to 2019, focused on the deployment of digital platforms, and phase 2 from
+  2020 to 2022, focused on the improvement of digital O&amp;M efficiency. U=
+se <font
+  class=3D"font10">AUTIN t</font><font class=3D"font8">o implement </font><=
+font
+  class=3D"font10">Auto TT </font><font class=3D"font8">&amp; Work Order an=
+d Auto
+  Diagnose UC, and enable SOC operation and customer care assistant based on
+  SmartCare. In the third phase, from 2023 onwards,</font><font class=3D"fo=
+nt10">
+  MTN </font><font class=3D"font8">will focus on user experience and contin=
+uously
+  improve the scores of F</font><font class=3D"font10">acebook, Umlaut, and=
+ N-NPS</font><font
+  class=3D"font8"> to build a second to none experience and maintain the top
+  ranking.<br>
+    In the future, </font><font class=3D"font10">MTN will</font><font
+  class=3D"font8"> shift its focus from efficiency improvement to experience
+  improvement to enable business success and provide better services for mo=
+re
+  customers.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Why does MTN achieve leading experience?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>To
+  achieve the second to none, experience, MTN adopts the NPS leading positi=
+on
+  as the experience measurement standard and incorporates the <font
+  class=3D"font10">NPS KPIs</font><font class=3D"font8"> to benchmark betwe=
+en its </font><font
+  class=3D"font10">19 OPCOs</font><font class=3D"font8">.<br>
+    Through Digital Operation transformatio</font><font class=3D"font10">n =
+N-NPS</font><font
+  class=3D"font8">, </font><font class=3D"font10">Umlaut crowd test, and Um=
+laut DT </font><font
+  class=3D"font8">benchmarking is done and improved with the assistance of =
+the
+  digital platform, </font><font class=3D"font10">MTN </font><font class=3D=
+"font8">uses
+  cross-domain data convergence and analysis to enables the collaboration o=
+</font><font
+  class=3D"font10">f NOC and</font><font class=3D"font8"> Optimization to a=
+chieve
+  excellent network performance and enable the collaboration of Optimization
+  and </font><font class=3D"font10">SOC to a</font><font class=3D"font8">ch=
+ieve
+  good service experience.</font></td>
+ </tr>
+ <tr height=3D546 style=3D'height:409.5pt'>
+  <td height=3D546 class=3Dxl68 width=3D72 style=3D'height:409.5pt;border-t=
+op:none;
+  width:54pt'>Does the MTN subnet have good experience and practices?</td>
+  <td class=3Dxl69 width=3D72 style=3D'border-top:none;border-left:none;wid=
+th:54pt'>MTN
+  has been implementing innovative practices in some of its<font class=3D"f=
+ont10">
+  OpCos </font><font class=3D"font8">and has achieved phased achievements. =
+In
+  Ghana, MTN is facing increasing pressure from its competitors in terms o<=
+/font><font
+  class=3D"font10">f NPS scor</font><font class=3D"font8">e. The gap betwee=
+n the
+  competitors and</font><font class=3D"font10"> MTN's N-NPS</font><font
+  class=3D"font8"> score is narrowing. As a result, MTN's leading market po=
+sition
+  is challenged. By effectively correlating the innovative customer experie=
+nce </font><font
+  class=3D"font10">index (CEI) with NPS</font><font class=3D"font8">, MTN c=
+an
+  quickly identify NPS problems in terms of capacity, experience, and
+  complaints.</font><font class=3D"font10"> MIMO site rec</font><font
+  class=3D"font8">onstruction is used to solve capacity problems on the</fo=
+nt><font
+  class=3D"font10"> RAN side</font><font class=3D"font8">, build solid netw=
+ork
+  infrastructure, and quickly resolve experience-related complaints through=
+ </font><font
+  class=3D"font10">NOC-SOC collaboration</font><font class=3D"font8">. Thro=
+ugh </font><font
+  class=3D"font10">SOC</font><font class=3D"font8">-Optimization collaborat=
+ion, the
+  solution effectively resolves user experience problems, continuously impr=
+oves
+  the </font><font class=3D"font10">NPS </font><font class=3D"font8">score,
+  gradually expands the gap with competitors, maintains the leading positio=
+n,
+  and greatly increases the traffic volume and user throughput, enabling
+  business success.<br>
+    In Nigeria, MTN focuses on the Facebook experience, but the Facebook us=
+er experience
+  lags behind competitors. In addition, MTN has a large-scale and complex
+  network, and it is difficult to improve user experience. To meet the
+  challenges, MTN proposes the concept of model city. MTN makes full use of
+  network data and uses digital methods such as scenario-based parameter
+  optimization and multi-band optimization, intelligent alarm compression, =
+and
+  real-time task tracing to digitalize the entire process from Optimization=
+ to
+  O&amp;M, making Abuja the first model city. After several months of
+  continuous efforts, we not only surpassed our competitors in the Facebook
+  experience, but also achieved No.1 for both the Facebook experience and t=
+he
+  NPS experience.</font></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DA4ED3.9712D230
+Content-Location: file:///C:/0AC49DF2/bigEN2_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../bigEN2.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DA4ED3.9712D230--
