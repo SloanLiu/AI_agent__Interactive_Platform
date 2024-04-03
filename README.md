@@ -1,1 +1,1 @@
-![img/AI agent Platform.png]
+![img/AI_agent_Platform.png]
