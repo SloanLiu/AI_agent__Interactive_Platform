@@ -1,1 +1,1 @@
-![image](img/AI agent Platform.png)
+![img/AI agent Platform.png]
