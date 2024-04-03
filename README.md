@@ -1,1 +1,1 @@
-![img/AI_agent_Platform.png]
+[<img src="img/flagopen.jpeg">]
